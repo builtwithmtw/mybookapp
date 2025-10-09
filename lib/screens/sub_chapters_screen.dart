@@ -72,7 +72,7 @@ class _SubchaptersscreenState extends State<Subchaptersscreen> {
   Widget _buildSubChapterTile(Subchapter subchapter, int chapterId) {
     return GestureDetector(
       onTap: () {
-        if (chapterId != 4 && chapterId != 11) {
+        if (chapterId != 4 && chapterId != 11 && chapterId != 10) {
           Get.toNamed(AppRoutes.chapterDetail, arguments: {
             'title': subchapter.title,
             'content': subchapter.content,

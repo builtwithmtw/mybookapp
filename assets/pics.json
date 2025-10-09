@@ -1,746 +1,762 @@
 [
   {
-    "title": "12-1 ثةرستطةها ثيرؤزا لالش",
+    "title": "12-1 په‌رستگه‌ها پیرۆزا لالش",
     "subchapters": [
       {
-        "title": "1",
+        "title": "په‌رستگه‌ها پیرۆزا لالش",
         "pics": [
           {
-            "title": "ئاظاهييَ ثيريَ خاني (ثيريَ خانا ئيَزي)",
+            "title": "1- ئاڤاهیێ پیرێ خانی (پیرێ خانا ئێزی)",
             "path": "assets/images/12_1/1.jpg"
           },
           {
-            "title": "ئاظاهييَ خةزنا ناني",
-            "path": "assets/images/12_1/10.jpg"
-          },
-          {
-            "title": "قوبا شيَخ مووسي عةنزةلي",
-            "path": "assets/images/12_1/100.jpg"
-          },
-          {
-            "title": "سلاظطةه",
-            "path": "assets/images/12_1/102.jpg"
-          },
-          {
-            "title": "ئاظاهييَ مالا فقيري",
-            "path": "assets/images/12_1/11.jpg"
-          },
-          {
-            "title": "ئاظاهيي ستيائيس",
-            "path": "assets/images/12_1/12.jpg"
-          },
-          {
-            "title": "مةزاريَ ئيسحاق كوردي",
-            "path": "assets/images/12_1/15.jpg"
-          },
-          {
-            "title": "نيشانطةها ضل حةجي",
-            "path": "assets/images/12_1/16.jpg"
-          },
-          {
-            "title": "شكةفتا حةجي علي",
-            "path": "assets/images/12_1/17.jpg"
-          },
-          {
-            "title": "شيَخ عةبدولقادريَ رحماني",
-            "path": "assets/images/12_1/18.jpg"
-          },
-          {
-            "title": "شةرفةدين",
-            "path": "assets/images/12_1/19.jpg"
-          },
-          {
-            "title": "ثرا سةلاتيَ",
+            "title": "2- پرا سه‌لاتێ",
             "path": "assets/images/12_1/2.jpg"
           },
           {
-            "title": "ئاظاهيي و شكةفتا  ئؤمةرخالا",
-            "path": "assets/images/12_1/20.jpg"
-          },
-          {
-            "title": "ئاظاهي و شكةفتا ثيريَ مةهمةديَ رةبةن",
-            "path": "assets/images/12_1/21.jpg"
-          },
-          {
-            "title": "ئاقدا ثير ئيَزي",
-            "path": "assets/images/12_1/22.jpg"
-          },
-          {
-            "title": "ئاظاهييَ شةخسيَ باتيَ",
-            "path": "assets/images/12_1/23.jpg"
-          },
-          {
-            "title": "مةزارطةهيَ ثير تووس",
-            "path": "assets/images/12_1/24.jpg"
-          },
-          {
-            "title": "مةزاريَ ثير مووس",
-            "path": "assets/images/12_1/25.jpg"
-          },
-          {
-            "title": "مةزاريَ ثير دربيَس",
-            "path": "assets/images/12_1/26.jpg"
-          },
-          {
-            "title": "مةزاريَ ثيري مةليج",
-            "path": "assets/images/12_1/27.jpg"
-          },
-          {
-            "title": "مةزاريَ مةهوةر",
-            "path": "assets/images/12_1/28.jpg"
-          },
-          {
-            "title": "مةزاريَ مةروان",
-            "path": "assets/images/12_1/29.jpg"
-          },
-          {
-            "title": "سووكا مةعريفةتيَ و بةريَ هةقييَ",
+            "title": "3- سووكا مه‌عریفه‌تێ و به‌رێ هه‌قیێ",
             "path": "assets/images/12_1/3.jpg"
           },
           {
-            "title": "ئاظاهييَ قايد",
-            "path": "assets/images/12_1/30.jpg"
-          },
-          {
-            "title": "شكةفتا بابا عيسوَ",
-            "path": "assets/images/12_1/31.jpg"
-          },
-          {
-            "title": "مةزاريَ ثير قةلةندةر",
-            "path": "assets/images/12_1/32.jpg"
-          },
-          {
-            "title": "مةزاريَ ثير جةروان",
-            "path": "assets/images/12_1/33.jpg"
-          },
-          {
-            "title": "ثير بشي",
-            "path": "assets/images/12_1/34.jpg"
-          },
-          {
-            "title": "ئاظاهييَ ثير حجي مةهمةد",
-            "path": "assets/images/12_1/35.jpg"
-          },
-          {
-            "title": "ثير لةغةر",
-            "path": "assets/images/12_1/36.jpg"
-          },
-          {
-            "title": "مةزاريَ ثير بوب",
-            "path": "assets/images/12_1/37.jpg"
-          },
-          {
-            "title": "مةزاريَ ثير مةحموود",
-            "path": "assets/images/12_1/38.jpg"
-          },
-          {
-            "title": "مةزاريَ ثير بةيبوون",
-            "path": "assets/images/12_1/39.jpg"
-          },
-          {
-            "title": "ئاظاهيييَ دكانا",
+            "title": "4- ئاڤاهییێ دكانا",
             "path": "assets/images/12_1/4.jpg"
           },
           {
-            "title": "ئاظاهييَ ئالو بكر",
-            "path": "assets/images/12_1/40.jpg"
-          },
-          {
-            "title": "ئاظاهييَ ثير بوكر (ثير كور بوكر)",
-            "path": "assets/images/12_1/41.jpg"
-          },
-          {
-            "title": "مةزاريَ ثير زؤزاني",
-            "path": "assets/images/12_1/42.jpg"
-          },
-          {
-            "title": "نيشانا ثيري خؤشاظا",
-            "path": "assets/images/12_1/43.jpg"
-          },
-          {
-            "title": "مةزاريَ شيَخوبةكر",
-            "path": "assets/images/12_1/45.jpg"
-          },
-          {
-            "title": "ئاقديَ شيَخ سمايليَ عةنزةلي",
-            "path": "assets/images/12_1/46.jpg"
-          },
-          {
-            "title": "شكةفتا شيَخ سماعيل",
-            "path": "assets/images/12_1/47.jpg"
-          },
-          {
-            "title": "ئاقديَ شيَخ حمبس",
-            "path": "assets/images/12_1/48.jpg"
-          },
-          {
-            "title": "ئاظاهيييَ  مةميَ شظان (ستونا مرازا)",
-            "path": "assets/images/12_1/49.jpg"
-          },
-          {
-            "title": "قوبا ثير مةندي كؤر",
+            "title": "5- قوبا پیر مه‌ندی كۆر",
             "path": "assets/images/12_1/5.jpg"
           },
           {
-            "title": "مةزاريَ عةبدولرةحمان جةوزي",
-            "path": "assets/images/12_1/50.jpg"
-          },
-          {
-            "title": "ئاظاهييَ طظاشتنا زةيتونا",
-            "path": "assets/images/12_1/51.jpg"
-          },
-          {
-            "title": "ئاظاهيييَ شيَخ تؤكل",
-            "path": "assets/images/12_1/52.jpg"
-          },
-          {
-            "title": "مةزاريَ ثير هاجيال",
-            "path": "assets/images/12_1/53.jpg"
-          },
-          {
-            "title": "مةزاريَ بابادبن",
-            "path": "assets/images/12_1/54.jpg"
-          },
-          {
-            "title": "مةزارطةهيَ ثير قةديبلبان",
-            "path": "assets/images/12_1/55.jpg"
-          },
-          {
-            "title": "مةزاريَ بير سين البحري",
-            "path": "assets/images/12_1/56.jpg"
-          },
-          {
-            "title": "مةزاريَ ثير بوال",
-            "path": "assets/images/12_1/57.jpg"
-          },
-          {
-            "title": "ئاقديَ شيَخ جيَد",
-            "path": "assets/images/12_1/58.jpg"
-          },
-          {
-            "title": "ئاظاهي و مةزاريَ ثيرئاظات",
-            "path": "assets/images/12_1/59.jpg"
-          },
-          {
-            "title": "مةزاريَ ضلميَران",
+            "title": "6- مه‌زارێ چلمێران",
             "path": "assets/images/12_1/6.jpg"
           },
           {
-            "title": "مةزاريَ ثير طاظانيَ رووت",
-            "path": "assets/images/12_1/60.jpg"
-          },
-          {
-            "title": "مةزاريَ ثير خةتيب ثسي ثير بوتار",
-            "path": "assets/images/12_1/61.jpg"
-          },
-          {
-            "title": "مةزاريَ ثير دةلي بيَبادي",
-            "path": "assets/images/12_1/62.jpg"
-          },
-          {
-            "title": "ئاظاهييَ ملك ناسردين",
-            "path": "assets/images/12_1/63.jpg"
-          },
-          {
-            "title": "ستييا حةبيب",
-            "path": "assets/images/12_1/64.jpg"
-          },
-          {
-            "title": "ثير مهةمةديَ بؤز",
-            "path": "assets/images/12_1/65.jpg"
-          },
-          {
-            "title": "ئاظاهييَ خاتوونا فةخران",
-            "path": "assets/images/12_1/66.jpg"
-          },
-          {
-            "title": "ئاظاهييَ شيَشمس",
-            "path": "assets/images/12_1/67.jpg"
-          },
-          {
-            "title": "مةزاريَ سةخري جن",
-            "path": "assets/images/12_1/68.jpg"
-          },
-          {
-            "title": "طؤرةثانا ثةرستطةها لالش",
+            "title": "7- گۆره‌پانا په‌رستگه‌ها لالش",
             "path": "assets/images/12_1/7.jpg"
           },
           {
-            "title": "ئاقديَ ئامادين",
-            "path": "assets/images/12_1/70.jpg"
-          },
-          {
-            "title": "ئاقديَ شيَخاليَ شةمسا",
-            "path": "assets/images/12_1/71.jpg"
-          },
-          {
-            "title": "ئاظاهييَ شيَخ مةند و شيَخ فخر",
-            "path": "assets/images/12_1/72.jpg"
-          },
-          {
-            "title": "ئاظاهييَ شيَخ بابكيَ شةمساني",
-            "path": "assets/images/12_1/73.jpg"
-          },
-          {
-            "title": "شيَخ زةري",
-            "path": "assets/images/12_1/74.jpg"
-          },
-          {
-            "title": "مةزاريَ ئيَزدين ئةميريَ شةمساني",
-            "path": "assets/images/12_1/75.jpg"
-          },
-          {
-            "title": "ئاظاهييَ كانييا سثي",
-            "path": "assets/images/12_1/76.jpg"
-          },
-          {
-            "title": "مةزاريَ شيَخ براهيميَ خةتمي",
-            "path": "assets/images/12_1/79.jpg"
-          },
-          {
-            "title": "ئاظاهييَ ثةرستطةها لالش",
+            "title": "8- ئاڤاهیێ په‌رستگه‌ها لالش",
             "path": "assets/images/12_1/8.jpg"
           },
           {
-            "title": "ئابروشكا",
-            "path": "assets/images/12_1/81.jpg"
-          },
-          {
-            "title": "ئاظاهيييَ شيَخ مووسيَ سؤر",
-            "path": "assets/images/12_1/82.jpg"
-          },
-          {
-            "title": "شيَخ بةركاتيَ هةكاري (شيَخ هةسنيَ ئيَكيَ)",
-            "path": "assets/images/12_1/83.jpg"
-          },
-          {
-            "title": "ئاظاهييَ سجادين",
-            "path": "assets/images/12_1/84.jpg"
-          },
-          {
-            "title": "زةمبيل فرؤش",
-            "path": "assets/images/12_1/85.jpg"
-          },
-          {
-            "title": "حةكيم لوقمان و فيرس",
-            "path": "assets/images/12_1/86.jpg"
-          },
-          {
-            "title": "شيَخ مةهمديَ باتنيَ",
-            "path": "assets/images/12_1/87.jpg"
-          },
-          {
-            "title": "مةزاريَ هةسن مةمان",
-            "path": "assets/images/12_1/88.jpg"
-          },
-          {
-            "title": "مةزاريَ حةسةن ئةلكان",
-            "path": "assets/images/12_1/89.jpg"
-          },
-          {
-            "title": "شاهسواريَ دةشتا بيَبانيَ",
+            "title": "9- شاهسوارێ ده‌شتا بێبانێ",
             "path": "assets/images/12_1/9.jpg"
           },
           {
-            "title": "مةزاريَ ثيريَ ئاليَ",
+            "title": "10- ئاڤاهیێ خه‌زنا نانی",
+            "path": "assets/images/12_1/10.jpg"
+          },
+          {
+            "title": "11- ئاڤاهیێ مالا فقیری",
+            "path": "assets/images/12_1/11.jpg"
+          },
+          {
+            "title": "12- ئاڤاهیی ستیائیس",
+            "path": "assets/images/12_1/12.jpg"
+          },
+          {
+            "title": "15- مه‌زارێ ئیسحاق كوردی",
+            "path": "assets/images/12_1/15.jpg"
+          },
+          {
+            "title": "16- نیشانگه‌ها چل حه‌جی",
+            "path": "assets/images/12_1/16.jpg"
+          },
+          {
+            "title": "17- شكه‌فتا حه‌جی علی",
+            "path": "assets/images/12_1/17.jpg"
+          },
+          {
+            "title": "18- شێخ عه‌بدولقادرێ رحمانی",
+            "path": "assets/images/12_1/18.jpg"
+          },
+          {
+            "title": "19- شه‌رفه‌دین",
+            "path": "assets/images/12_1/19.jpg"
+          },
+          {
+            "title": "20- ئاڤاهیی و شكه‌فتا  ئۆمه‌رخالا",
+            "path": "assets/images/12_1/20.jpg"
+          },
+          {
+            "title": "21- ئاڤاهی و شكه‌فتا پیرێ مه‌همه‌دێ ره‌به‌ن",
+            "path": "assets/images/12_1/21.jpg"
+          },
+          {
+            "title": "22- ئاقدا پیر ئێزی",
+            "path": "assets/images/12_1/22.jpg"
+          },
+          {
+            "title": "23- ئاڤاهیێ شه‌خسێ باتێ",
+            "path": "assets/images/12_1/23.jpg"
+          },
+          {
+            "title": "24- مه‌زارگه‌هێ پیر تووس",
+            "path": "assets/images/12_1/24.jpg"
+          },
+          {
+            "title": "25- مه‌زارێ پیر مووس",
+            "path": "assets/images/12_1/25.jpg"
+          },
+          {
+            "title": "26- مه‌زارێ پیر دربێس",
+            "path": "assets/images/12_1/26.jpg"
+          },
+          {
+            "title": "27- مه‌زارێ پیری مه‌لیج",
+            "path": "assets/images/12_1/27.jpg"
+          },
+          {
+            "title": "28- مه‌زارێ مه‌هوه‌ر",
+            "path": "assets/images/12_1/28.jpg"
+          },
+          {
+            "title": "29- مه‌زارێ مه‌روان",
+            "path": "assets/images/12_1/29.jpg"
+          },
+          {
+            "title": "30- ئاڤاهیێ قاید",
+            "path": "assets/images/12_1/30.jpg"
+          },
+          {
+            "title": "31- شكه‌فتا بابا عیسۆ",
+            "path": "assets/images/12_1/31.jpg"
+          },
+          {
+            "title": "32- مه‌زارێ پیر قه‌له‌نده‌ر",
+            "path": "assets/images/12_1/32.jpg"
+          },
+          {
+            "title": "33- مه‌زارێ پیر جه‌روان",
+            "path": "assets/images/12_1/33.jpg"
+          },
+          {
+            "title": "34- پیر بشیر",
+            "path": "assets/images/12_1/34.jpg"
+          },
+          {
+            "title": "35- ئاڤاهیێ پیر حجی مه‌همه‌د",
+            "path": "assets/images/12_1/35.jpg"
+          },
+          {
+            "title": "36- پیر له‌غه‌ر",
+            "path": "assets/images/12_1/36.jpg"
+          },
+          {
+            "title": "37- مه‌زارێ پیر بوب",
+            "path": "assets/images/12_1/37.jpg"
+          },
+          {
+            "title": "38- مه‌زارێ پیر مه‌حموود",
+            "path": "assets/images/12_1/38.jpg"
+          },
+          {
+            "title": "39- مه‌زارێ پیر به‌یبوون",
+            "path": "assets/images/12_1/39.jpg"
+          },
+          {
+            "title": "40- ئاڤاهیێ ئالو بكر",
+            "path": "assets/images/12_1/40.jpg"
+          },
+          {
+            "title": "41- ئاڤاهیێ پیر بوكر (پیر كور بوكر)",
+            "path": "assets/images/12_1/41.jpg"
+          },
+          {
+            "title": "42- مه‌زارێ پیر زۆزانی",
+            "path": "assets/images/12_1/42.jpg"
+          },
+          {
+            "title": "43- نیشانا پیری خۆشاڤا",
+            "path": "assets/images/12_1/43.jpg"
+          },
+          {
+            "title": "45- مه‌زارێ شێخوبه‌كر",
+            "path": "assets/images/12_1/45.jpg"
+          },
+          {
+            "title": "46- ئاقدێ شێخ سمایلێ عه‌نزه‌لی",
+            "path": "assets/images/12_1/46.jpg"
+          },
+          {
+            "title": "47- شكه‌فتا شێخ سماعیل",
+            "path": "assets/images/12_1/47.jpg"
+          },
+          {
+            "title": "48- ئاقدێ شێخ حمبس",
+            "path": "assets/images/12_1/48.jpg"
+          },
+          {
+            "title": "49- ئاڤاهییێ  مه‌مێ شڤان (ستونا مرازا)",
+            "path": "assets/images/12_1/49.jpg"
+          },
+          {
+            "title": "50- مه‌زارێ عه‌بدولره‌حمان جه‌وزی",
+            "path": "assets/images/12_1/50.jpg"
+          },
+          {
+            "title": "51- ئاڤاهیێ گڤاشتنا زه‌یتونا",
+            "path": "assets/images/12_1/51.jpg"
+          },
+          {
+            "title": "52- ئاڤاهییێ شێخ تۆكل",
+            "path": "assets/images/12_1/52.jpg"
+          },
+          {
+            "title": "53- مه‌زارێ پیر هاجیال",
+            "path": "assets/images/12_1/53.jpg"
+          },
+          {
+            "title": "54- مه‌زارێ بابادبن",
+            "path": "assets/images/12_1/54.jpg"
+          },
+          {
+            "title": "55- مه‌زارگه‌هێ پیر قه‌دیبلبان",
+            "path": "assets/images/12_1/55.jpg"
+          },
+          {
+            "title": "56-  مه‌زارێ بیر سین البحری",
+            "path": "assets/images/12_1/56.jpg"
+          },
+          {
+            "title": "57- مه‌زارێ پیر بوال",
+            "path": "assets/images/12_1/57.jpg"
+          },
+          {
+            "title": "58- ئاقدێ شێخ جێد",
+            "path": "assets/images/12_1/58.jpg"
+          },
+          {
+            "title": "59- ئاڤاهی و مه‌زارێ پیرئاڤات",
+            "path": "assets/images/12_1/59.jpg"
+          },
+          {
+            "title": "60- مه‌زارێ پیر گاڤانێ رووت",
+            "path": "assets/images/12_1/60.jpg"
+          },
+          {
+            "title": "61- مه‌زارێ پیر خه‌تیب پسی پیر بوتار",
+            "path": "assets/images/12_1/61.jpg"
+          },
+          {
+            "title": "62- مه‌زارێ پیر ده‌لی بێبادی",
+            "path": "assets/images/12_1/62.jpg"
+          },
+          {
+            "title": "63- ئاڤاهیێ ملك ناسردین",
+            "path": "assets/images/12_1/63.jpg"
+          },
+          {
+            "title": "64- ستییا حه‌بیب",
+            "path": "assets/images/12_1/64.jpg"
+          },
+          {
+            "title": "65- پیر مهه‌مه‌دێ بۆز",
+            "path": "assets/images/12_1/65.jpg"
+          },
+          {
+            "title": "66- ئاڤاهیێ خاتوونا فه‌خران",
+            "path": "assets/images/12_1/66.jpg"
+          },
+          {
+            "title": "67- ئاڤاهیێ شێشمس",
+            "path": "assets/images/12_1/67.jpg"
+          },
+          {
+            "title": "68- مه‌زارێ سه‌خری جن",
+            "path": "assets/images/12_1/68.jpg"
+          },
+          {
+            "title": "70- ئاقدێ ئامادین",
+            "path": "assets/images/12_1/70.jpg"
+          },
+          {
+            "title": "71- ئاقدێ شێخالێ شه‌مسا",
+            "path": "assets/images/12_1/71.jpg"
+          },
+          {
+            "title": "72- ئاڤاهیێ شێخ مه‌ند و شێخ فخر",
+            "path": "assets/images/12_1/72.jpg"
+          },
+          {
+            "title": "73- ئاڤاهیێ شێخ بابكێ شه‌مسانی",
+            "path": "assets/images/12_1/73.jpg"
+          },
+          {
+            "title": "74- شێخ زه‌ری",
+            "path": "assets/images/12_1/74.jpg"
+          },
+          {
+            "title": "75- مه‌زارێ ئێزدین ئه‌میرێ شه‌مسانی",
+            "path": "assets/images/12_1/75.jpg"
+          },
+          {
+            "title": "76-  ئاڤاهیێ كانییا سپی",
+            "path": "assets/images/12_1/76.jpg"
+          },
+          {
+            "title": "79- مه‌زارێ شێخ براهیمێ خه‌تمی",
+            "path": "assets/images/12_1/79.jpg"
+          },
+          {
+            "title": "81- ئابروشكا",
+            "path": "assets/images/12_1/81.jpg"
+          },
+          {
+            "title": "82- ئاڤاهییێ شێخ مووسێ سۆر",
+            "path": "assets/images/12_1/82.jpg"
+          },
+          {
+            "title": "83- شێخ به‌ركاتێ هه‌كاری (شێخ هه‌سنێ ئێكێ)",
+            "path": "assets/images/12_1/83.jpg"
+          },
+          {
+            "title": "84- ئاڤاهیێ سجادین",
+            "path": "assets/images/12_1/84.jpg"
+          },
+          {
+            "title": "85- زه‌مبیل فرۆش",
+            "path": "assets/images/12_1/85.jpg"
+          },
+          {
+            "title": "86- حه‌كیم لوقمان و فیرس",
+            "path": "assets/images/12_1/86.jpg"
+          },
+          {
+            "title": "87- شێخ مه‌همدێ باتنێ",
+            "path": "assets/images/12_1/87.jpg"
+          },
+          {
+            "title": "88- مه‌زارێ هه‌سن مه‌مان",
+            "path": "assets/images/12_1/88.jpg"
+          },
+          {
+            "title": "89- مه‌زارێ حه‌سه‌ن ئه‌لكان",
+            "path": "assets/images/12_1/89.jpg"
+          },
+          {
+            "title": "90- مه‌زارێ پیرێ ئالێ",
             "path": "assets/images/12_1/90.jpg"
           },
           {
-            "title": "مةهمةد رةشا",
+            "title": "91- مه‌همه‌د ره‌شا",
             "path": "assets/images/12_1/91.jpg"
           },
           {
-            "title": "ئاظاهييَ ثيري كةمال",
+            "title": "92- ئاڤاهیێ پیری كه‌مال",
             "path": "assets/images/12_1/92.jpg"
           },
           {
-            "title": "مةزاريَ شيَخ عةظدال",
+            "title": "93- مه‌زارێ شێخ عه‌ڤدال",
             "path": "assets/images/12_1/93.jpg"
           },
           {
-            "title": "نيشانطةها ثير خةنوق",
+            "title": "94- نیشانگه‌ها پیر خه‌نوق",
             "path": "assets/images/12_1/94.jpg"
           },
           {
-            "title": "مةزاريَ غةفووريَ ريَيا",
+            "title": "95- مه‌زارێ غه‌فوورێ رێیا",
             "path": "assets/images/12_1/95.jpg"
           },
           {
-            "title": "شكةفتا سةيد نعوم",
+            "title": "97- شكه‌فتا سه‌ید نعوم",
             "path": "assets/images/12_1/97.jpg"
+          },
+          {
+            "title": "100- قوبا شێخ مووسی عه‌نزه‌لی",
+            "path": "assets/images/12_1/100.jpg"
+          },
+          {
+            "title": "102- سلاڤگه‌ه",
+            "path": "assets/images/12_1/102.jpg"
+          },
+          {
+            "title": "په‌رستگه‌ها پیرۆزا لالش",
+            "path": "assets/images/12_1/103.jpg"
           }
         ]
       }
     ]
   },
   {
-    "title": "12-2 دةظةرا ضياييَ مقلوبيَ قةزا شيَخان",
+    "title": "12-2 ده‌ڤه‌را چیایێ مقلوبێ قه‌زا شێخان",
     "subchapters": [
       {
-        "title": "1",
+        "title": "12-2-1 قه‌زا شێخان",
         "pics": [
           {
-            "title": "1- مةزاريَ شيَخ ئاليَ شةمسا.jpg",
+            "title": "1- مه‌زارێ شێخ ئالێ شه‌مسا",
             "path": "assets/images/12_2/1/1.jpg"
           },
           {
-            "title": "2- نيشانا كوريَ رةوال ب رةخ قوبا شيَخاليَ شةمسا.jpg",
+            "title": "2- نیشانا كورێ ره‌وال ب ره‌خ قوبا شێخالێ شه‌مسا",
             "path": "assets/images/12_2/1/2.jpg"
           },
           {
-            "title": "3- نيشانطةها ستييا تاووس.jpg",
+            "title": "3- نیشانگه‌ها ستییا تاووس",
             "path": "assets/images/12_2/1/3.jpg"
           },
           {
-            "title": "4- قوبا ثيريَ خؤشاظا ل شيَخان.jpg",
+            "title": "4- قوبا پیرێ خۆشاڤا ل شێخان",
             "path": "assets/images/12_2/1/4.jpg"
           },
           {
-            "title": "5- مةزاري شيَخ مةند ل شيَخان.jpg",
+            "title": "5- مه‌زاری شێخ مه‌ند ل شێخان",
             "path": "assets/images/12_2/1/5.jpg"
           },
           {
-            "title": "6- نيشانطةها شيخوبةكر ل شيَخان.jpg",
+            "title": "6- نیشانگه‌ها شیخوبه‌كر ل شێخان",
             "path": "assets/images/12_2/1/6.jpg"
           },
           {
-            "title": "7- نيشانطةها طولا شيَمةرزي ل شيَخان.jpg",
+            "title": "7- نیشانگه‌ها گولا شێمه‌رزی ل شێخان",
             "path": "assets/images/12_2/1/7.jpg"
           },
           {
-            "title": "8- مةزاريَ شيَخ حةنتوش ل شيَخان.jpg",
+            "title": "8- مه‌زارێ شێخ حه‌نتوش ل شێخان",
             "path": "assets/images/12_2/1/8.jpg"
           },
           {
-            "title": "9- نيشانطةها عةظديَ رةش ل شيَخان.jpg",
+            "title": "9- نیشانگه‌ها عه‌ڤدێ ره‌ش ل شێخان",
             "path": "assets/images/12_2/1/9.jpg"
           },
           {
-            "title": "10- نيشانطةها طاظانيَ زةرزرا ل شيَخان.jpg",
+            "title": "10- نیشانگه‌ها گاڤانێ زه‌رزرا ل شێخان",
             "path": "assets/images/12_2/1/10.jpg"
           },
           {
-            "title": "11- نيشانطةها بازيدي بةستامى ل شيَخان.jpg",
+            "title": "11- نیشانگه‌ها بازیدی به‌ستامى ل شێخان",
             "path": "assets/images/12_2/1/11.jpg"
           },
           {
-            "title": "21- نيشانطةها ئامادين ل شيَخان.jpg",
+            "title": "21- نیشانگه‌ها ئامادین ل شێخان",
             "path": "assets/images/12_2/1/21.jpg"
           },
           {
-            "title": "ئيَسفنيَ (قةزا شيَخان).png",
-            "path": "assets/images/12_2/1/ئيَسفنيَ (قةزا شيَخان).png"
+            "title": "ئێسفنێ (قه‌زا شێخان)",
+            "path": "assets/images/12_2/1/22.jpg"
           }
         ]
       },
       {
-        "title": "2",
+        "title": "12-2-2 گوندێ جه‌روانه‌",
         "pics": [
           {
-            "title": "مةزاريَ ثير جةروان",
+            "title": "1- مه‌زارێ پیر جه‌روان",
             "path": "assets/images/12_2/2/1.jpg"
           },
           {
-            "title": "طونديَ جةروان",
+            "title": "گوندێ جه‌روان",
             "path": "assets/images/12_2/2/2.png"
           }
         ]
       },
       {
-        "title": "3",
+        "title": "12-2-3 گوندێ باقسرێ",
         "pics": [
           {
-            "title": "نيشانطةها ئيَزي",
+            "title": "1- نیشانگه‌ها ئێزی",
             "path": "assets/images/12_2/3/1.jpg"
           },
           {
-            "title": "نيشانطةها شيَخ عةلي",
-            "path": "assets/images/12_2/3/10.jpg"
-          },
-          {
-            "title": "سلاظطةها مةحمة رةشان",
-            "path": "assets/images/12_2/3/11.jpg"
-          },
-          {
-            "title": "زيارةتطةها كؤضك خدريَ",
+            "title": "2- زیاره‌تگه‌ها كۆچك خدرێ",
             "path": "assets/images/12_2/3/2.jpg"
           },
           {
-            "title": "نيشانطةها خاتوونا فةخرا",
+            "title": "3- نیشانگه‌ها خاتوونا فه‌خرا",
             "path": "assets/images/12_2/3/3.jpg"
           },
           {
-            "title": "نيشانةها عةبدولعةزيزيَ حةربي",
+            "title": "4- نیشانگه‌ها عه‌بدولعه‌زیزێ حه‌ربی",
             "path": "assets/images/12_2/3/4.jpg"
           },
           {
-            "title": "نيشانطةها شيَخ حةسةنيَ خاتونيَ",
+            "title": "5- نیشانگه‌ها شێخ حه‌سه‌نێ خاتونێ",
             "path": "assets/images/12_2/3/5.jpg"
           },
           {
-            "title": "نيشانطةها شيَخ دةرويَش",
+            "title": "6- نیشانگه‌ها شێخ ده‌روێش",
             "path": "assets/images/12_2/3/6.jpg"
           },
           {
-            "title": "نيشانطةها شيَخ رةشيد",
+            "title": "7- نیشانگه‌ها شێخ ره‌شید",
             "path": "assets/images/12_2/3/7.jpg"
           },
           {
-            "title": "نيشانطةها شيَخ رؤمي",
+            "title": "8- نیشانگه‌ها شێخ رۆمی",
             "path": "assets/images/12_2/3/8.jpg"
           },
           {
-            "title": "نيشانطةها شيَخ عةمةريَ خاتونيَ",
+            "title": "9- نیشانگه‌ها شێخ عه‌مه‌رێ خاتونێ",
             "path": "assets/images/12_2/3/9.jpg"
           },
           {
-            "title": "طونديَ باقسريَ",
+            "title": "10- نیشانگه‌ها شێخ عه‌لی",
+            "path": "assets/images/12_2/3/10.jpg"
+          },
+          {
+            "title": "11- سلاڤگه‌ها مه‌حمه‌ ره‌شان",
+            "path": "assets/images/12_2/3/11.jpg"
+          },
+          {
+            "title": "گوندێ باقسرێ",
             "path": "assets/images/12_2/3/12.png"
           }
         ]
       },
       {
-        "title": "4",
+        "title": "12-2-4 گوندێ بێتنارێ",
         "pics": [
           {
-            "title": "1- مةزاريَ  شيَخيَ زةريَ",
+            "title": "1- مه‌زارێ  شێخێ زه‌رێ",
             "path": "assets/images/12_2/4/1.jpg"
           },
           {
-            "title": "2- مةزاريَ شةرفةدين",
+            "title": "2- مه‌زارێ شه‌رفه‌دین",
             "path": "assets/images/12_2/4/2.jpg"
           },
           {
-            "title": "3- نيشانطةها شيَخ عةبرووس",
+            "title": "3- نیشانگه‌ها شێخ عه‌برووس",
             "path": "assets/images/12_2/4/3.jpg"
           },
           {
-            "title": "4- نيشانطةها ثير بالووك",
+            "title": "4- نیشانگه‌ها پیر بالووك",
             "path": "assets/images/12_2/4/4.jpg"
           },
           {
-            "title": "5- ثير مةحمةد رةشان ل طونديَ بيَتناريَ",
+            "title": "5- پیر مه‌حمه‌د ره‌شان ل گوندێ بێتنارێ",
             "path": "assets/images/12_2/4/5.jpg"
+          },
+          {
+            "title": "گوندێ بێتنارێ",
+            "path": "assets/images/12_2/4/6.jpg"
           }
         ]
       },
       {
-        "title": "5",
+        "title": "12-2-5 گوندێ مام ره‌شان",
         "pics": [
           {
-            "title": "1- مةزاريَ ثير داود بن دةرمان",
+            "title": "1- مه‌زارێ پیر داود بن ده‌رمان",
             "path": "assets/images/12_2/5/1.jpg"
+          },
+          {
+            "title": "گوندێ مام ره‌شان",
+            "path": "assets/images/12_2/5/2.png"
           }
         ]
       },
       {
-        "title": "6",
+        "title": "12-2-6 گوندێ مه‌هه‌تێ",
         "pics": [
           {
-            "title": "1- قوبا ئيَزي",
+            "title": "1- قوبا ئێزی",
             "path": "assets/images/12_2/6/1.jpg"
           }
         ]
       },
       {
-        "title": "7",
+        "title": "12-2-7 گوندێ مه‌حموده‌",
         "pics": [
           {
-            "title": "1- مةزاريَ شيَخ مةحموود",
+            "title": "1- مه‌زارێ شێخ مه‌حموود",
             "path": "assets/images/12_2/7/1.jpg"
           },
           {
-            "title": "2- نيشانطةها شيَخ حةسةن (مةلك شيَخسن)",
+            "title": "2- نیشانگه‌ها شێخ حه‌سه‌ن (مه‌لك شێخسن)",
             "path": "assets/images/12_2/7/2.jpg"
           },
           {
-            "title": "3- نيشانطةها كوجك والي و كؤضةك كضكؤض",
+            "title": "3- نیشانگه‌ها كوجك والی و كۆچه‌ك كچكۆچ",
             "path": "assets/images/12_2/7/3.jpg"
           },
           {
-            "title": "4- مةزاريَ شيَخ قليض",
+            "title": "4- مه‌زارێ شێخ قلیچ",
             "path": "assets/images/12_2/7/4.jpg"
           },
           {
-            "title": "5- نيشانطةها عةبديَ رةش",
+            "title": "5- نیشانگه‌ها عه‌بدێ ره‌ش",
             "path": "assets/images/12_2/7/5.jpg"
+          },
+          {
+            "title": "گوندێ مه‌حموده",
+            "path": "assets/images/12_2/7/6.png"
           }
         ]
       },
       {
-        "title": "8",
+        "title": "12-2-8 گوندێ موقبلا مه‌زن",
         "pics": [
           {
-            "title": "1- مةزار و قوبا شيَخ بازيدي بةستامي",
+            "title": "1- مه‌زار و قوبا شێخ بازیدی به‌ستامی",
             "path": "assets/images/12_2/8/1.jpg"
           },
           {
-            "title": "2- مةزاريَ دايكا ضاك",
+            "title": "2- مه‌زارێ دایكا چاك",
             "path": "assets/images/12_2/8/2.jpg"
           },
           {
-            "title": "3- قوبا شيَخ مووسيَ سؤر",
+            "title": "3- قوبا شێخ مووسێ سۆر",
             "path": "assets/images/12_2/8/3.jpg"
           },
           {
-            "title": "4- نيشانطةها  شيَخ فةخر ئاديا",
+            "title": "4- نیشانگه‌ها  شێخ فه‌خر ئادیا",
             "path": "assets/images/12_2/8/4.jpg"
           },
           {
-            "title": "هةشت طونديَ موقبلا مةزن",
+            "title": "گوندێ موقبلا مه‌زن",
             "path": "assets/images/12_2/8/5.png"
           }
         ]
       },
       {
-        "title": "10",
+        "title": "12-2-10 گوندێ موسكان",
         "pics": [
           {
-            "title": "1- نيشانطةها عةظديَ رةش",
+            "title": "1- نیشانگه‌ها عه‌ڤدێ ره‌ش",
             "path": "assets/images/12_2/10/1.jpg"
           },
           {
-            "title": "2- نيشانطةها ئيَزي",
+            "title": "2- نیشانگه‌ها ئێزی",
             "path": "assets/images/12_2/10/2.jpg"
           },
           {
-            "title": "دةه  طونديَ مؤسكان",
+            "title": "گوندێ مۆسكان",
             "path": "assets/images/12_2/10/3.png"
           }
         ]
       },
       {
-        "title": "11",
+        "title": "12-2-11 گوندێ گرمبارك",
         "pics": [
           {
-            "title": "1- نيشانطةها دايكا ثيرؤز (ثيرئافات)",
+            "title": "1- نیشانگه‌ها دایكا پیرۆز (پیرئافات)",
             "path": "assets/images/12_2/11/1.jpg"
           },
           {
-            "title": "2- نيشانطةها بازيديَ بةستاميَ",
+            "title": "2- نیشانگه‌ها بازیدێ به‌ستامێ",
             "path": "assets/images/12_2/11/2.jpg"
           },
           {
-            "title": "3- نيشانطةها كضا بوكر",
+            "title": "3- نیشانگه‌ها كچا بوكر",
             "path": "assets/images/12_2/11/3.jpg"
           },
           {
-            "title": "يازدة طونديَ طرمبارك",
+            "title": "گوندێ گرمبارك",
             "path": "assets/images/12_2/11/4.png"
           }
         ]
       },
       {
-        "title": "12",
+        "title": "12-2-12 گوندێ گرخاسی",
         "pics": [
           {
-            "title": "1- نيشانطةها شيَخ مةهمةديَ باتنيَ",
+            "title": "1- نیشانگه‌ها شێخ مه‌همه‌دێ باتنێ",
             "path": "assets/images/12_2/12/1.jpg"
           },
           {
-            "title": "دوازدة  طونديَ كرخاسيَ",
+            "title": "گوندێ كرخاسێ",
             "path": "assets/images/12_2/12/2.png"
           }
         ]
       },
       {
-        "title": "13",
+        "title": "12-2-13 گوندێ كندالی",
         "pics": [
           {
-            "title": "1- مةزاريَ سلتان ئيَزي",
+            "title": "1- مه‌زارێ سلتان ئێزی",
             "path": "assets/images/12_2/13/1.jpg"
           },
           {
-            "title": "2- نيشانطةها شيخادي",
+            "title": "2- نیشانگه‌ها شیخادی",
             "path": "assets/images/12_2/13/2.jpg"
           },
           {
-            "title": "3- نيشانطةها عةظديَ رةش",
+            "title": "3- نیشانگه‌ها عه‌ڤدێ ره‌ش",
             "path": "assets/images/12_2/13/3.jpg"
           },
           {
-            "title": "سيَزدة  طونديَ كندالي",
+            "title": "گوندێ كندالی",
             "path": "assets/images/12_2/13/4.png"
           }
         ]
       },
       {
-        "title": "16",
+        "title": "12-2-16 گوندێ زێوه‌ مه‌همه‌د ره‌شان",
         "pics": [
           {
-            "title": "1- شيَخوبةك",
+            "title": "1- شێخوبه‌كر",
             "path": "assets/images/12_2/16/1.jpg"
           },
           {
-            "title": "1- مةزار و قوبا مةهمةد رةشان",
+            "title": "1- مه‌زار و قوبا مه‌همه‌د ره‌شان",
             "path": "assets/images/12_2/16/2.jpg"
           },
           {
-            "title": "1- نيشانطةها خاتونا فةخرا",
+            "title": "1- نیشانگه‌ها خاتونا فه‌خرا",
             "path": "assets/images/12_2/16/3.jpg"
           },
           {
-            "title": "2- نيشانطةها بةريَ فةقيرا",
+            "title": "2- نیشانگه‌ها ئامادین",
             "path": "assets/images/12_2/16/4.jpg"
           },
           {
-            "title": "2- نيشانطةها خدر لياس و خدرنةبي",
+            "title": "2- نیشانگه‌ها به‌رێ فه‌قیرا",
             "path": "assets/images/12_2/16/5.jpg"
           },
           {
-            "title": "2- نيشانطةها ئامادين",
+            "title": "2- نیشانگه‌ها خدر لیاس و خدرنه‌بی",
             "path": "assets/images/12_2/16/6.jpg"
           },
           {
-            "title": "3- نيشانطةها بابيَ رةش",
+            "title": "3- ئاڤاهیا شێخ بابك",
             "path": "assets/images/12_2/16/7.jpg"
           },
           {
-            "title": "3- نيشانطةها مةلك فةخرةدين",
+            "title": "3- نیشانگه‌ها بابێ ره‌ش",
             "path": "assets/images/12_2/16/8.jpg"
           },
           {
-            "title": "3- ئاظاهيا شيَخ بابك",
+            "title": "3- نیشانگه‌ها مه‌لك فه‌خره‌دین",
             "path": "assets/images/12_2/16/9.jpg"
           },
           {
-            "title": "4- خةزينا مةهمةدرةشان",
+            "title": "4- خه‌زینا مه‌همه‌دره‌شان",
             "path": "assets/images/12_2/16/10.jpg"
           },
           {
-            "title": "4- نيشانطةها كةتكا",
+            "title": "4- نیشانگه‌ها كه‌تكا",
             "path": "assets/images/12_2/16/11.jpg"
           },
           {
-            "title": "4- نيشانطةها مةلك ناسردين",
+            "title": "4- نیشانگه‌ها مه‌لك ناسردین",
             "path": "assets/images/12_2/16/12.jpg"
           },
           {
-            "title": "5- نيشانطةها سةخرى جن",
+            "title": "5- نیشانگه‌ها سه‌خرى جن",
             "path": "assets/images/12_2/16/13.jpg"
           },
           {
-            "title": "5- نيشانطةها شيَشمس",
+            "title": "5- نیشانگه‌ها شێشمس",
             "path": "assets/images/12_2/16/14.jpg"
           },
           {
-            "title": "6- دةرييَ روَذهةلاتي (ميري)",
+            "title": "6- ده‌ریێ رۆژهه‌لاتی (میری)",
             "path": "assets/images/12_2/16/15.jpg"
           },
           {
-            "title": "6- نيشانطةها ثيري جةروا",
+            "title": "6- نیشانگه‌ها پیری جه‌روا",
             "path": "assets/images/12_2/16/16.jpg"
           },
           {
-            "title": "7- نيشانطةها  شيخادي",
+            "title": "7- نیشانگه‌ها  شیخادی",
             "path": "assets/images/12_2/16/17.jpg"
           },
           {
-            "title": "8- نيشانطةها دةيكا ضاك",
+            "title": "8- نیشانگه‌ها ده‌یكا چاك",
             "path": "assets/images/12_2/16/18.jpg"
           },
           {
-            "title": "شازدة  طونديَ زيَوة مةهمة رةشان",
+            "title": "گوندێ زێوه‌ مه‌همه‌ ره‌شان",
             "path": "assets/images/12_2/16/19.png"
           }
         ]
@@ -748,152 +764,152 @@
     ]
   },
   {
-    "title": "12-3 دةظةرا مةرطة - ميرطةه",
+    "title": "12-3 ده‌ڤه‌را مه‌رگه‌ - میرگه‌ه",
     "subchapters": [
       {
-        "title": "1",
+        "title": "12-3-1 ناحیا باعه‌درێ",
         "pics": [
           {
-            "title": "مةزاريَ خدرلياس",
+            "title": "1- مه‌زارێ خدرلیاس",
             "path": "assets/images/12_3/1/1.jpg"
           },
           {
-            "title": "نيشانا خدر نةبي",
+            "title": "2- نیشانا خدر نه‌بی",
             "path": "assets/images/12_3/1/2.jpg"
           },
           {
-            "title": "مةزاريَ شيَخ طةمبوور",
+            "title": "3- مه‌زارێ شێخ گه‌مبوور",
             "path": "assets/images/12_3/1/3.jpg"
           },
           {
-            "title": "مةزاريَ حاجي عةلي (حةجي عةلي)",
+            "title": "4- مه‌زارێ حاجی عه‌لی (حه‌جی عه‌لی)",
             "path": "assets/images/12_3/1/4.jpg"
           },
           {
-            "title": "نيشانا حةجي شيَخ",
+            "title": "5- نیشانا حه‌جی شێخ",
             "path": "assets/images/12_3/1/5.jpg"
           },
           {
-            "title": "هجركا بابيَ عيسؤ",
+            "title": "6- هجركا بابێ عیسۆ",
             "path": "assets/images/12_3/1/6.jpg"
           },
           {
-            "title": "مةزاريَ خدر رةحمان",
+            "title": "7- مه‌زارێ خدر ره‌حمان",
             "path": "assets/images/12_3/1/7.jpg"
           },
           {
-            "title": "نيشانطةها مةلكيَ ميَران",
+            "title": "8- نیشانگه‌ها مه‌لكێ مێران",
             "path": "assets/images/12_3/1/8.jpg"
           },
           {
-            "title": "كانيا بابيَ عيسؤ",
+            "title": "9- كانیا بابێ عیسۆ",
             "path": "assets/images/12_3/1/9.jpg"
           },
           {
-            "title": "مةزاريَ ثير هاجيال",
+            "title": "10- مه‌زارێ پیر هاجیال",
             "path": "assets/images/12_3/1/10.jpg"
           },
           {
-            "title": "قوبا ئيَزي",
+            "title": "11- قوبا ئێزی",
             "path": "assets/images/12_3/1/11.jpg"
           },
           {
-            "title": "نيشانطةها بابة عيسؤ",
+            "title": "12- نیشانگه‌ها بابه‌ عیسۆ",
             "path": "assets/images/12_3/1/12.jpg"
           },
           {
-            "title": "نيشانطةها عةبديَ رةش",
+            "title": "13- نیشانگه‌ها عه‌بدێ ره‌ش",
             "path": "assets/images/12_3/1/13.jpg"
           },
           {
-            "title": "نيشانطةها شيَشم",
+            "title": "14- نیشانگه‌ها شێشمس",
             "path": "assets/images/12_3/1/14.jpg"
           },
           {
-            "title": "مةزاريَ غةفوريَ رييَا (شيَخ مشةلةح)",
+            "title": "17- مه‌زارێ غه‌فورێ ریێا (شێخ مشه‌له‌ح)",
             "path": "assets/images/12_3/1/17.jpg"
           },
           {
-            "title": "ئيَك ناحيا باعةدريَ",
+            "title": "ناحیا باعه‌درێ",
             "path": "assets/images/12_3/1/18.png"
           }
         ]
       },
       {
-        "title": "2",
+        "title": "12-3-2 گوندێ ایسیان",
         "pics": [
           {
-            "title": "1- مةزاريَ مةميَ ئيسيان",
+            "title": "1- مه‌زارێ مه‌مێ ئیسیان",
             "path": "assets/images/12_3/2/1.jpg"
           },
           {
-            "title": "2- مةزاريَ شةخسيَ سةريَ طوند",
+            "title": "2- مه‌زارێ شه‌خسێ سه‌رێ گوند",
             "path": "assets/images/12_3/2/2.jpg"
           },
           {
-            "title": "3- نيشانطةها شيَخ مووسيَ سؤر",
+            "title": "3- نیشانگه‌ها شێخ مووسێ سۆر",
             "path": "assets/images/12_3/2/3.jpg"
           },
           {
-            "title": "4- نيشانطةها ئيَزي",
+            "title": "4- نیشانگه‌ها ئێزی",
             "path": "assets/images/12_3/2/4.jpg"
           },
           {
-            "title": "5- نيشانطةها مةلك فةخرةدين",
+            "title": "5- نیشانگه‌ها مه‌لك فه‌خره‌دین",
             "path": "assets/images/12_3/2/5.jpg"
           },
           {
-            "title": "دوو  طونديَ ئيَسيان",
+            "title": "گوندێ ئێسیان",
             "path": "assets/images/12_3/2/6.png"
           }
         ]
       },
       {
-        "title": "3",
+        "title": "12-3-3 گوندێ بیرستكێ",
         "pics": [
           {
-            "title": "1- نيشانطةها طاظانيَ زةرزا",
+            "title": "1- نیشانگه‌ها گاڤانێ زه‌رزا",
             "path": "assets/images/12_3/3/1.jpg"
           },
           {
-            "title": "2- سلاظطةها ئيَزي",
+            "title": "2- سلاڤگه‌ها ئێزی",
             "path": "assets/images/12_3/3/2.jpg"
           },
           {
-            "title": "3- نيشانطةها جل حةجي",
+            "title": "3- نیشانگه‌ها جل حه‌جی",
             "path": "assets/images/12_3/3/3.jpg"
           },
           {
-            "title": "4- مةزاريَ حةجي رةجةب بيَرستةكي",
+            "title": "4- مه‌زارێ حه‌جی ره‌جه‌ب بێرسته‌كی",
             "path": "assets/images/12_3/3/4.jpg"
           },
           {
-            "title": "5- قوبا ثير حةسةن ئةلكان",
+            "title": "5- قوبا پیر حه‌سه‌ن ئه‌لكان",
             "path": "assets/images/12_3/3/5.jpg"
           },
           {
-            "title": "6- بةريَ مةهمةد رةشان",
+            "title": "6- به‌رێ مه‌همه‌د ره‌شان",
             "path": "assets/images/12_3/3/6.jpg"
           },
           {
-            "title": "7- كانيا باوي ل طونديَ بيرستكيَ",
+            "title": "7- كانیا باوی ل گوندێ بیرستكێ",
             "path": "assets/images/12_3/3/7.jpg"
           },
           {
-            "title": "سيَ  طونديَ بيَرستيك",
+            "title": "گوندێ بێرستیك",
             "path": "assets/images/12_3/3/8.png"
           }
         ]
       },
       {
-        "title": "4",
+        "title": "12-3-4 گوندێ حه‌سه‌نیێ",
         "pics": [
           {
-            "title": "1- نيشانطةها شيَخ حةسن",
+            "title": "1- نیشانگه‌ها شێخ حه‌سن",
             "path": "assets/images/12_3/4/1.jpg"
           },
           {
-            "title": "ضار  طونديَ حةسةنييَ",
+            "title": "گوندێ حه‌سه‌نیێ",
             "path": "assets/images/12_3/4/2.png"
           }
         ]
@@ -901,418 +917,458 @@
     ]
   },
   {
-    "title": "12-4 دةظةرا بةربن",
+    "title": "12-4 ده‌ڤه‌را به‌ربن",
     "subchapters": [
       {
-        "title": "1",
+        "title": "12-4-1 نیشانگه‌هێن دكه‌ڤنه‌ به‌ر مه‌زارگه‌هێ مه‌هده‌رێ ل گوندێ بۆزان",
         "pics": [
           {
-            "title": "1- مةزاريَ مةلكيَ ميَران",
+            "title": "1- مه‌زارێ مه‌لكێ مێران",
             "path": "assets/images/12_4/1/1.jpg"
           },
           {
-            "title": "2- دةرطةهيَ مةهدةريَ",
+            "title": "2- ده‌رگه‌هێ مه‌هده‌رێ",
             "path": "assets/images/12_4/1/2.jpg"
           },
           {
-            "title": "3- قوبا غةفوريَ ريَيا",
+            "title": "3- قوبا غه‌فورێ رێیا",
             "path": "assets/images/12_4/1/3.jpg"
           },
           {
-            "title": "4- ئاقدا ثير مةند",
+            "title": "4- ئاقدا پیر مه‌ند",
             "path": "assets/images/12_4/1/4.jpg"
           },
           {
-            "title": "5- نيشانطةها دةرويَشيَ ئادةم",
+            "title": "5- نیشانگه‌ها ده‌روێشێ ئاده‌م",
             "path": "assets/images/12_4/1/5.jpg"
           },
           {
-            "title": "6- نيشانطةها حةسن البصري",
+            "title": "6- نیشانگه‌ها حه‌سن البصری",
             "path": "assets/images/12_4/1/6.jpg"
           },
           {
-            "title": "7- نيشانطةها ئالو بةكر",
+            "title": "7- نیشانگه‌ها ئالو به‌كر",
             "path": "assets/images/12_4/1/7.jpg"
           },
           {
-            "title": "8- نيشانطةها خةتي ثسي",
+            "title": "8- نیشانگه‌ها خه‌تی پسی",
             "path": "assets/images/12_4/1/8.jpg"
           },
           {
-            "title": "9- نيشانطةها ثيريَ ئالي و ثير بوال",
+            "title": "9- نیشانگه‌ها پیرێ ئالی و پیر بوال",
             "path": "assets/images/12_4/1/9.jpg"
           },
           {
-            "title": "10- نيشانطةها ستيا عةرةب و شيَخ مخفي",
+            "title": "10- نیشانگه‌ها ستیا عه‌ره‌ب و شێخ مخفی",
             "path": "assets/images/12_4/1/10.jpg"
           },
           {
-            "title": "11- نيشانطةها مةميَ شظان",
+            "title": "11- نیشانگه‌ها مه‌مێ شڤان",
             "path": "assets/images/12_4/1/11.jpg"
           },
           {
-            "title": "12- نيشانطةها كور بةركر",
+            "title": "12- نیشانگه‌ها كور به‌ركر",
             "path": "assets/images/12_4/1/12.jpg"
           },
           {
-            "title": "13- نيشانطةها ستيا زين",
+            "title": "13- نیشانگه‌ها ستیا زین",
             "path": "assets/images/12_4/1/13.jpg"
           },
           {
-            "title": "14- نيشانطةها ئيَزدينةمير",
+            "title": "14- نیشانگه‌ها ئێزدینه‌میر",
             "path": "assets/images/12_4/1/14.jpg"
           },
           {
-            "title": "15- شورها شيَخ فخريَ ئاديان",
+            "title": "15- شورها شێخ فخرێ ئادیان",
             "path": "assets/images/12_4/1/15.jpg"
           },
           {
-            "title": "16- نيشانطةها روال",
+            "title": "16- نیشانگه‌ها روال",
             "path": "assets/images/12_4/1/16.jpg"
           },
           {
-            "title": "17- نيشانطةها ئامادين",
+            "title": "17- نیشانگه‌ها ئامادین",
             "path": "assets/images/12_4/1/17.jpg"
           },
           {
-            "title": "18- نيشلنطةها بابادين",
+            "title": "18- نیشانگه‌ها بابادین",
             "path": "assets/images/12_4/1/18.jpg"
           },
           {
-            "title": "19- نيشانطةها شيَخ مةند",
+            "title": "19- نیشانگه‌ها شێخ مه‌ند",
             "path": "assets/images/12_4/1/19.jpg"
           },
           {
-            "title": "20- نيشانطةها ثيرسينيَ بةحري",
+            "title": "20- نیشانگه‌ها پیرسینێ به‌حری",
             "path": "assets/images/12_4/1/20.jpg"
           },
           {
-            "title": "21- نيشانطةها شيخادي (شيَخ بةركات)",
+            "title": "21- نیشانگه‌ها شیخادی (شێخ به‌ركات)",
             "path": "assets/images/12_4/1/21.jpg"
           },
           {
-            "title": "22- دةرطةهيَ ميري",
+            "title": "22- ده‌رگه‌هێ میری",
             "path": "assets/images/12_4/1/22.jpg"
           },
           {
-            "title": "23- نيشانطةها كيَلا مةهد",
+            "title": "23- نیشانگه‌ها كێلا مه‌هد",
             "path": "assets/images/12_4/1/23.jpg"
           },
           {
-            "title": "24- نيشانطةها ثيريَ جةروان",
+            "title": "24- نیشانگه‌ها پیرێ جه‌روان",
             "path": "assets/images/12_4/1/24.jpg"
           },
           {
-            "title": "25- نيشانطةها خاتونا فةخرا",
+            "title": "25- نیشانگه‌ها خاتونا فه‌خرا",
             "path": "assets/images/12_4/1/25.jpg"
           },
           {
-            "title": "26- نيشانطةها شيَخ مةهمدي جندار",
+            "title": "26- نیشانگه‌ها شێخ مه‌همدی جندار",
             "path": "assets/images/12_4/1/26.jpg"
           },
           {
-            "title": "27- نيشانطةها شيَخ نادر",
+            "title": "27- نیشانگه‌ها شێخ نادر",
             "path": "assets/images/12_4/1/27.jpg"
           },
           {
-            "title": "28- نيشانطةها شورا نوبةدارا",
+            "title": "28- نیشانگه‌ها شورا نوبه‌دارا",
             "path": "assets/images/12_4/1/28.jpg"
           },
           {
-            "title": "29- كوَضك سةلمان",
+            "title": "29- كۆچك سه‌لمان",
             "path": "assets/images/12_4/1/29.jpg"
           },
           {
-            "title": "ئيَك  طونديَ بؤزان",
+            "title": "گوندێ بۆزان",
             "path": "assets/images/12_4/1/30.png"
           }
         ]
       },
       {
-        "title": "2",
+        "title": "12-4-2 نیشانگه‌هێن دكه‌ڤنه‌ د ناڤ گوندێ بۆزا",
         "pics": [
           {
-            "title": "نيشانطةها ثير بوبيَ طوندا",
+            "title": "1- نیشانگه‌ها پیر بوبێ گوندا",
             "path": "assets/images/12_4/2/1.jpg"
           },
           {
-            "title": "نيشانطةها شيَشمس",
+            "title": "2- نیشانگه‌ها شێشمس",
             "path": "assets/images/12_4/2/2.jpg"
           },
           {
-            "title": "نيشانطةها طاظانيَ زةرزا",
+            "title": "3- نیشانگه‌ها گاڤانێ زه‌رزا",
             "path": "assets/images/12_4/2/3.jpg"
           },
           {
-            "title": "نيشانطةها خاتوونا فةخرا",
+            "title": "4- نیشاتگه‌ها ختمون",
+            "path": "assets/images/12_4/2/4.jpg"
+          },
+          {
+            "title": "5- نیشانگه‌ها پیر ئاڤات",
+            "path": "assets/images/12_4/2/5.jpg"
+          },
+          {
+            "title": "6- نیشانگه‌ها شه‌خسێ باتێ",
+            "path": "assets/images/12_4/2/6.jpg"
+          },
+          {
+            "title": "7- نیشانگه‌ها خدرلیاس",
+            "path": "assets/images/12_4/2/7.jpg"
+          },
+          {
+            "title": "8- قوبا بلێل",
+            "path": "assets/images/12_4/2/8.jpg"
+          },
+          {
+            "title": "9- نیشانگه‌ها شێخالێ شمسا",
+            "path": "assets/images/12_4/2/9.jpg"
+          },
+          {
+            "title": "10-  نیشانگه‌ها خاتوونا فه‌خرا و كچا كنیشك ",
             "path": "assets/images/12_4/2/10.jpg"
           },
           {
-            "title": "نيشانطةها ستييا حةبيب (تاووس خاتون)",
+            "title": "11- نیشانگه‌ها ستییا حه‌بیب (تاووس خاتون)",
             "path": "assets/images/12_4/2/11.jpg"
           },
           {
-            "title": "نيشانطةها ستيا ئيَس",
+            "title": "12- نیشانگه‌ها ستیا ئێس",
             "path": "assets/images/12_4/2/12.jpg"
           },
           {
-            "title": "قوبا شيخوبةكر",
+            "title": "13- قوبا شیخوبه‌كر",
             "path": "assets/images/12_4/2/13.jpg"
           },
           {
-            "title": "شيَخ بةركاتيَ هةكاري (شيَخ هةسنيَ ئيَكيَ)",
+            "title": "14- شێخ به‌ركاتێ هه‌كاری (شێخ هه‌سنێ ئێكێ)",
             "path": "assets/images/12_4/2/14.jpg"
           },
           {
-            "title": "شيَخ ابراهيم ختمي",
+            "title": "15- شێخ ابراهیم ختمی",
             "path": "assets/images/12_4/2/15.jpg"
           },
           {
-            "title": "نيشانطةها ضل ميَران",
+            "title": "16- نیشانگه‌ها چل مێران",
             "path": "assets/images/12_4/2/16.jpg"
           },
           {
-            "title": "نيشانطةها داودي بن دةرمان",
+            "title": "17- نیشانگه‌ها داودی بن ده‌رمان",
             "path": "assets/images/12_4/2/17.jpg"
           },
           {
-            "title": "نيشانطةها ناسردين",
+            "title": "18- نیشانگه‌ها ناسردین",
             "path": "assets/images/12_4/2/18.jpg"
           },
           {
-            "title": "نيشانطةها سجادين",
+            "title": "19- نیشانگه‌ها سجادین",
             "path": "assets/images/12_4/2/19.jpg"
           },
           {
-            "title": "نيشانطةها شةرفةدين",
+            "title": "20- نیشانگه‌ها شه‌رفه‌دین",
             "path": "assets/images/12_4/2/20.jpg"
           },
           {
-            "title": "شيَخ مووسيَ سؤ",
+            "title": "21- شێخ مووسێ سۆر",
             "path": "assets/images/12_4/2/21.jpg"
           },
           {
-            "title": "نيشانطةها ئيَزيد",
+            "title": "22- نیشانگه‌ها ئێزید",
             "path": "assets/images/12_4/2/22.jpg"
           },
           {
-            "title": "شيَخ حةسن",
+            "title": "23- شێخ حه‌سن",
             "path": "assets/images/12_4/2/23.jpg"
           },
           {
-            "title": "نيشانطةها خدخندؤك",
+            "title": "24- نیشانگه‌ها خدخندۆك",
             "path": "assets/images/12_4/2/24.jpg"
           },
           {
-            "title": "نيشانطةه و كانيا عةظديَ رةش",
+            "title": "25- نیشانگه‌ها و كانیا عه‌ڤدێ ره‌ش",
             "path": "assets/images/12_4/2/25.jpg"
           },
           {
-            "title": "نيشانطةها بةريَ سنجةق",
+            "title": "26- نیشانگه‌ها به‌رێ سنجه‌ق",
             "path": "assets/images/12_4/2/26.jpg"
           },
           {
-            "title": "نيشانطةها مةهدي شةرفةدين",
+            "title": "27- نیشانگه‌ها مه‌هدی شه‌رفه‌دین",
             "path": "assets/images/12_4/2/27.jpg"
           },
           {
-            "title": "مةزاريَ شيَمشس",
+            "title": "29- مه‌زارێ شێمشس",
             "path": "assets/images/12_4/2/29.jpg"
+          },
+          {
+            "title": "30- مه‌زاری بازیدێ به‌ستامی ل گوندی كه‌ڤن یی بۆزان",
+            "path": "assets/images/12_4/2/30.jpg"
+          },
+          {
+            "title": "31- مه‌زارێ ره‌وال",
+            "path": "assets/images/12_4/2/31.jpg"
+          },
+          {
+            "title": "33- به‌رێ جللندكێ",
+            "path": "assets/images/12_4/2/33.jpg"
+          },
+          {
+            "title": "34- كاڤلكێ ماری",
+            "path": "assets/images/12_4/2/34.jpg"
           }
         ]
       },
       {
-        "title": "3",
+        "title": "12-4-3 گوندێ نسریێ",
         "pics": [
           {
-            "title": "مةزارطةهيَ شيخ مةند",
+            "title": "1- مه‌زارگه‌هێ شیخ مه‌ند",
             "path": "assets/images/12_4/3/1.jpg"
           },
           {
-            "title": "قوبا شيَخ بابك",
+            "title": "2- قوبا شێخ بابك",
             "path": "assets/images/12_4/3/2.jpg"
           },
           {
-            "title": "سيَ طونديَ نسيَريي",
+            "title": "گوندێ نسێریی",
             "path": "assets/images/12_4/3/3.png"
           }
         ]
       },
       {
-        "title": "4",
+        "title": "12-4-4 گوندێ جه‌راحیێ",
         "pics": [
           {
-            "title": "قوبا ثير مةندي طؤر",
+            "title": "1- قوبا پیر مه‌ندی گۆر",
             "path": "assets/images/12_4/4/1.jpg"
           },
           {
-            "title": "نيشانطةها طاظانيَ زةرزا",
+            "title": "2- نیشانگه‌ها گاڤانێ زه‌رزا",
             "path": "assets/images/12_4/4/2.jpg"
           },
           {
-            "title": "نيشانطةها شيَخ مةقبوول (شيخادي)",
+            "title": "3- نیشانگه‌ها شێخ مه‌قبوول (شیخادی)",
             "path": "assets/images/12_4/4/3.jpg"
           },
           {
-            "title": "نيشاتطةها ثير طةمؤ",
+            "title": "4- نیشاتگه‌ها پیر گه‌مۆ",
             "path": "assets/images/12_4/4/4.jpg"
           },
           {
-            "title": "نيشانطةها خاتوونا فةخرا",
+            "title": "5- نیشانگه‌ها خاتوونا فه‌خرا",
             "path": "assets/images/12_4/4/5.jpg"
           },
           {
-            "title": "نيشانطةها ئيَزي",
+            "title": "6- نیشانگه‌ها ئێزی",
             "path": "assets/images/12_4/4/6.jpg"
           },
           {
-            "title": "ضار  طونديَ جةراحييَ",
+            "title": "گوندێ جه‌راحیێ",
             "path": "assets/images/12_4/4/7.png"
           }
         ]
       },
       {
-        "title": "5",
+        "title": "12-4-5 گوندێ بێبانێ",
         "pics": [
           {
-            "title": "مةزارطةهيَ شاهسواريَ دةشتا بيَبانيَ",
+            "title": "1- مه‌زارگه‌هێ شاهسوارێ ده‌شتا بێبانێ",
             "path": "assets/images/12_4/5/1.jpg"
           },
           {
-            "title": "نيشانطةها مةلك فخرةدين",
+            "title": "2- نیشانگه‌ها مه‌لك فخره‌دین",
             "path": "assets/images/12_4/5/2.jpg"
           },
           {
-            "title": "نيشانطةها ثيرافات",
+            "title": "3- نیشانگه‌ها پیرافات",
             "path": "assets/images/12_4/5/3.jpg"
           },
           {
-            "title": "ثيَنض طونديَ بيَبانيَ",
+            "title": "گوندێ بێبانێ",
             "path": "assets/images/12_4/5/4.png"
           }
         ]
       },
       {
-        "title": "6",
+        "title": "12-4-6 گوندێ شێخكا",
         "pics": [
           {
-            "title": "مةزارطةهيَ ئيَزدينة نةمير",
+            "title": "1- مه‌زارگه‌هێ ئێزدینه‌ نه‌میر",
             "path": "assets/images/12_4/6/1.jpg"
           },
           {
-            "title": "نيشانطةها عةبديَ رةش (ريحان عةبديَ شيخادي)",
+            "title": "2- نیشانگه‌ها عه‌بدێ ره‌ش (ریحان عه‌بدێ شیخادی)",
             "path": "assets/images/12_4/6/2.jpg"
           },
           {
-            "title": "مةلك شيخسن (شيخ حةسن)",
+            "title": "3- مه‌لك شیخسن (شیخ حه‌سن)",
             "path": "assets/images/12_4/6/3.jpg"
           },
           {
-            "title": "شةش طونديَ شيَخكا",
+            "title": "گوندێ شێخكا",
             "path": "assets/images/12_4/6/4.png"
           }
         ]
       },
       {
-        "title": "7",
+        "title": "12-4-7 گوندێ كرسافا",
         "pics": [
           {
-            "title": "مةزاريَ خدر ئالياس",
+            "title": "1- مه‌زارێ خدر ئالیاس",
             "path": "assets/images/12_4/7/1.jpg"
           },
           {
-            "title": "هةفت  طونديَ كةرسافا",
+            "title": "گوندێ كه‌رسافا",
             "path": "assets/images/12_4/7/2.png"
           }
         ]
       },
       {
-        "title": "8",
+        "title": "12-4-8 گوندێ خۆرزا",
         "pics": [
           {
-            "title": "نيشانطةها شيَخ موسيَ سؤر",
+            "title": "1- نیشانگه‌ها شێخ موسێ سور",
             "path": "assets/images/12_4/8/1.jpg"
           },
           {
-            "title": "نيشانطةها شيَخ عنزةرووت (بةريَ شيَخ)",
+            "title": "2- نیشانگه‌ها شێخ عنزه‌رووت (بۆره‌رێ شێخ)",
             "path": "assets/images/12_4/8/2.jpg"
           },
           {
-            "title": "مةزارطةهيَ مةلك فةخرةدين",
+            "title": "3- مه‌زارگه‌هێ مه‌لك فه‌خره‌دین",
             "path": "assets/images/12_4/8/3.jpg"
           },
           {
-            "title": "مةزاريَ شةخسيَ باتيَ",
+            "title": "4- مه‌زارێ شه‌خسێ باتێ",
             "path": "assets/images/12_4/8/4.jpg"
           },
           {
-            "title": "نيشانطةها عةبديَ رةش",
+            "title": "5- نیشانگه‌ها عه‌بدێ ره‌ش",
             "path": "assets/images/12_4/8/5.jpg"
           },
           {
-            "title": "مةزاريَ شيد",
+            "title": "6- مه‌زارێ شید",
             "path": "assets/images/12_4/8/6.jpg"
           },
           {
-            "title": "هةشت طونديَ خؤرزا",
+            "title": "گوندێ خۆرزا",
             "path": "assets/images/12_4/8/7.png"
           }
         ]
       },
       {
-        "title": "9",
+        "title": "12-4-9 گوندێ گابارا",
         "pics": [
           {
-            "title": "مةزاريَ ئاظدةل ئؤمةرا",
+            "title": "1- مه‌زارێ ئاڤده‌ل ئۆمه‌را",
             "path": "assets/images/12_4/9/1.jpg"
           },
           {
-            "title": "مةزارطةهيَ سجادين",
+            "title": "2- مه‌زارگه‌هێ سجادین",
             "path": "assets/images/12_4/9/2.jpg"
           },
           {
-            "title": "مةزاريَ عةظديَ رةش",
+            "title": "3- مه‌زارێ عه‌ڤدێ ره‌ش",
             "path": "assets/images/12_4/9/3.jpg"
           },
           {
-            "title": "مةزاريَ كوجك برهيم",
+            "title": "4- مه‌زارێ كوجك برهیم",
             "path": "assets/images/12_4/9/4.jpg"
           },
           {
-            "title": "تؤكا (دارا) نيشانطةهيَ",
+            "title": "5- تۆكا (دارا) نیشانگه‌هێ",
             "path": "assets/images/12_4/9/5.jpg"
           },
           {
-            "title": "مةزارطةهيَ قوبا جم",
+            "title": "7- مه‌زارگه‌هێ قوبا جم",
             "path": "assets/images/12_4/9/7.png"
           },
           {
-            "title": "نةه  طونديَ طابارة",
+            "title": "گوندێ گاباره",
             "path": "assets/images/12_4/9/6.png"
           }
         ]
       },
       {
-        "title": "10",
+        "title": "12-4-10 گوندێ ته‌فتیان",
         "pics": [
           {
-            "title": "مةزاريَ مةلك شيخسن",
+            "title": "1- مه‌زارێ مه‌لك شیخسن",
             "path": "assets/images/12_4/10/1.jpg"
           },
           {
-            "title": "مةزاريَ شيَخ براهيميَ ختمي",
+            "title": "2- مه‌زارێ شێخ براهیمێ ختمی",
             "path": "assets/images/12_4/10/2.jpg"
           },
           {
-            "title": "مةزاريَ ثير بةحري",
+            "title": "3- مه‌زارێ پیر به‌حری",
             "path": "assets/images/12_4/10/3.jpg"
           },
           {
-            "title": "مةزاريَ ثيريَ ئالي",
+            "title": "4- مه‌زارێ پیرێ ئالی",
             "path": "assets/images/12_4/10/4.jpg"
           },
           {
-            "title": "دةه طونديَ تةفتيان",
+            "title": "گوندێ ته‌فتیان",
             "path": "assets/images/12_4/10/5.png"
           }
         ]
@@ -1320,205 +1376,205 @@
     ]
   },
   {
-    "title": "12-5 دةظةرا بن كةند",
+    "title": "12-5 ده‌ڤه‌را بن كه‌ند",
     "subchapters": [
       {
-        "title": "1",
+        "title": "12-5-1 گوندێ خه‌تارێ",
         "pics": [
           {
-            "title": "1- مةزاريَ حةكيم لوقمان و حةكيم فيَرس",
+            "title": "1- مه‌زارێ حه‌كیم لوقمان و حه‌كیم فێرس",
             "path": "assets/images/12_5/1/1.jpg"
           },
           {
-            "title": "10- نيشانطةها مةميَ شظان",
-            "path": "assets/images/12_5/1/10.jpg"
-          },
-          {
-            "title": "11- مةزارطةهيَ بابي شةهيد ل خةتاري",
-            "path": "assets/images/12_5/1/11.jpg"
-          },
-          {
-            "title": "12- نيشانطةها ميريَ كاظيَ (تاووسي مةلةك)",
-            "path": "assets/images/12_5/1/12.jpg"
-          },
-          {
-            "title": "2- نيشانطةها كةرةجال",
+            "title": "2- نیشانگه‌ها كه‌ره‌جال",
             "path": "assets/images/12_5/1/2.jpg"
           },
           {
-            "title": "3- نيشانطةها مادوزثيَرة",
+            "title": "3- نیشانگه‌ها مادوزپێره‌",
             "path": "assets/images/12_5/1/3.jpg"
           },
           {
-            "title": "4- قوبا و مةزاريَ سلتان ئيَزي",
+            "title": "4- قوبا و مه‌زارێ سلتان ئێزی",
             "path": "assets/images/12_5/1/4.jpg"
           },
           {
-            "title": "5- مةزاريَ مةلك فخرةدين",
+            "title": "5- مه‌زارێ مه‌لك فخره‌دین",
             "path": "assets/images/12_5/1/5.jpg"
           },
           {
-            "title": "6- قوبا شةخسيَ باتيَ",
+            "title": "6- قوبا شه‌خسێ باتێ",
             "path": "assets/images/12_5/1/6.jpg"
           },
           {
-            "title": "7- خيفةتا سلتان ئيَزي",
+            "title": "7- خیفه‌تا سلتان ئێزی",
             "path": "assets/images/12_5/1/7.jpg"
           },
           {
-            "title": "8- مةزاريَ نةبي نوح",
+            "title": "8- مه‌زارێ نه‌بی نوح",
             "path": "assets/images/12_5/1/8.jpg"
           },
           {
-            "title": "9- مةزاريَ بابيَ شةهيد زةخام",
+            "title": "9- مه‌زارێ بابێ شه‌هید زه‌خام",
             "path": "assets/images/12_5/1/9.jpg"
           },
           {
-            "title": "ئيَك طونديَ خةتاريَ",
+            "title": "10- نیشانگه‌ها مه‌مێ شڤان",
+            "path": "assets/images/12_5/1/10.jpg"
+          },
+          {
+            "title": "11- مه‌زارگه‌هێ بابی شه‌هید ل خه‌تاری",
+            "path": "assets/images/12_5/1/11.jpg"
+          },
+          {
+            "title": "12- نیشانگه‌ها میرێ كاڤێ (تاووسی مه‌له‌ك)",
+            "path": "assets/images/12_5/1/12.jpg"
+          },
+          {
+            "title": "گوندێ خه‌تارێ",
             "path": "assets/images/12_5/1/13.png"
           }
         ]
       },
       {
-        "title": "2",
+        "title": "12-5-2 گوندێ دۆغاتا",
         "pics": [
           {
-            "title": "مةزاريَ سلتان ئيَزي",
+            "title": "1- مه‌زارێ سلتان ئێزی",
             "path": "assets/images/12_5/2/1.jpg"
           },
           {
-            "title": "سلاظطةها شيَخ مةمهةديَ خورستانيَ",
-            "path": "assets/images/12_5/2/11.jpg"
-          },
-          {
-            "title": "نيشانطةها ثيريَ لبنا",
+            "title": "2- نیشانگه‌ها پیرێ لبنا",
             "path": "assets/images/12_5/2/2.jpg"
           },
           {
-            "title": "نيشانطةها خاتوونا فةخرا",
+            "title": "3- نیشانگه‌ها خاتوونا فه‌خرا",
             "path": "assets/images/12_5/2/3.jpg"
           },
           {
-            "title": "مةزاريَ كضا كةني",
+            "title": "4- مه‌زارێ كچا كه‌نی",
             "path": "assets/images/12_5/2/4.jpg"
           },
           {
-            "title": "مةزاريَ شيَخ مةهمةديَ خوَرستاني (باتنيَ)",
+            "title": "5- مه‌زارێ شێخ مه‌همه‌دێ خۆرستانی (باتنێ)",
             "path": "assets/images/12_5/2/5.jpg"
           },
           {
-            "title": "مةزاريَ ثيراظات ( طيَضين",
+            "title": "8- (مه‌زارێ پیراڤات ( گێچین",
             "path": "assets/images/12_5/2/8.jpg"
           },
           {
-            "title": "دوو طونديَ دؤغاتا",
+            "title": "11- سلاڤگه‌ها شێخ مه‌مهه‌دێ خورستانێ",
+            "path": "assets/images/12_5/2/11.jpg"
+          },
+          {
+            "title": "گوندێ دۆغاتا",
             "path": "assets/images/12_5/2/9.png"
           }
         ]
       },
       {
-        "title": "3",
+        "title": "12-5-3 گوندێ سرێچكا",
         "pics": [
           {
-            "title": "مةزار و قوبا شيَخ بادر",
+            "title": "1- مه‌زار و قوبا شێخ بادر",
             "path": "assets/images/12_5/3/1.jpg"
           },
           {
-            "title": "مةزاريَ بةرواري",
+            "title": "2- مه‌زارێ به‌رواری",
             "path": "assets/images/12_5/3/2.jpg"
           },
           {
-            "title": "قوبا ئامادين",
+            "title": "3-  قوبا ئامادین",
             "path": "assets/images/12_5/3/3.jpg"
           },
           {
-            "title": "قوبا شيَخيَ زةري",
+            "title": "4- قوبا شێخێ زه‌ری",
             "path": "assets/images/12_5/3/4.jpg"
           },
           {
-            "title": "قوبا طاظانيَ زةرزرا",
+            "title": "5- قوبا گاڤانێ زه‌رزرا",
             "path": "assets/images/12_5/3/5.jpg"
           },
           {
-            "title": "قوبا خاتوونا فةخران",
+            "title": "6- قوبا خاتوونا فه‌خران",
             "path": "assets/images/12_5/3/6.jpg"
           },
           {
-            "title": "مةزاريَ شيَخ مسوور",
+            "title": "7- مه‌زارێ شێخ مسوور",
             "path": "assets/images/12_5/3/7.jpg"
           },
           {
-            "title": "قوبا شيَخ بابك",
+            "title": "8- قوبا شێخ بابك",
             "path": "assets/images/12_5/3/8.jpg"
           },
           {
-            "title": "سيَ طونديَ سريَضكا",
+            "title": "گوندێ سرێچكا",
             "path": "assets/images/12_5/3/9.png"
           }
         ]
       },
       {
-        "title": "4",
+        "title": "12-5-4 گوندێ خۆشابا",
         "pics": [
           {
-            "title": "مةزارطةهيَ شيخ مةند",
+            "title": "1- مه‌زارگه‌هێ شیخ مه‌ند",
             "path": "assets/images/12_5/4/1.jpg"
           },
           {
-            "title": "قوبا شيَخ بابك",
+            "title": "2- قوبا شێخ بابك",
             "path": "assets/images/12_5/4/2.jpg"
           },
           {
-            "title": "قوبا شةخسيَ باتيَ",
+            "title": "3- قوبا شه‌خسێ باتێ",
             "path": "assets/images/12_5/4/3.jpg"
           },
           {
-            "title": "قوبا داودي بن دةرمان",
+            "title": "4- قوبا داودی بن ده‌رمان",
             "path": "assets/images/12_5/4/4.jpg"
           },
           {
-            "title": "قوبا ثير ئوسظيان",
+            "title": "5- قوبا پیر ئوسڤیان",
             "path": "assets/images/12_5/4/5.jpg"
           },
           {
-            "title": "قوبا ستييا حةبيب",
+            "title": "6- قوبا ستییا حه‌بیب",
             "path": "assets/images/12_5/4/6.jpg"
           },
           {
-            "title": "خلمةتكاريَن قوبا شيَخ مةند",
+            "title": "9- خلمه‌تكارێن قوبا شێخ مه‌ند",
             "path": "assets/images/12_5/4/9.jpg"
           },
           {
-            "title": "نيشانطةها كؤضك برهي",
+            "title": "10- نیشانگه‌ها كۆچك برهیم",
             "path": "assets/images/12_5/4/10.jpg"
           },
           {
-            "title": "سيَ  طونديَ خةوشابا",
+            "title": "گوندێ خه‌وشابا",
             "path": "assets/images/12_5/4/11.png"
           }
         ]
       },
       {
-        "title": "5",
+        "title": "12-5-5 گوندێ نفریه‌",
         "pics": [
           {
-            "title": "مةزاريَ ثيرافات",
+            "title": "1- مه‌زارێ پیرافات",
             "path": "assets/images/12_5/5/1.jpg"
           },
           {
-            "title": "مةزاريَ ئيَزي",
+            "title": "2- مه‌زارێ ئێزی",
             "path": "assets/images/12_5/5/2.jpg"
           },
           {
-            "title": "مةزاريَ كوريَ رةوال",
+            "title": "3- مه‌زارێ كورێ ره‌وال",
             "path": "assets/images/12_5/5/3.jpg"
           },
           {
-            "title": "قوبا ثير هسنالكا",
+            "title": "4- قوبا پیر هسنالكا",
             "path": "assets/images/12_5/5/4.jpg"
           },
           {
-            "title": "ثيَنض  طوندي نفيَرية",
+            "title": "گوندی نفێریه‌",
             "path": "assets/images/12_5/5/5.png"
           }
         ]
@@ -1526,135 +1582,139 @@
     ]
   },
   {
-    "title": "12-6 دةظةرا بةر ئاظيَ",
+    "title": "12-6 ده‌ڤه‌را به‌ر ئاڤێ",
     "subchapters": [
       {
-        "title": "1",
+        "title": "12-6-1 گوندێ بابیرێ",
         "pics": [
           {
-            "title": "10- نيشانطةها جوَقةتا شاميَ ل بةر مةزاريَ شةحسيَ باتيَ",
-            "path": "assets/images/12_6/1/10.jpg"
+            "title": "1- مه‌زارگه‌هێ شه‌خسێ باتی",
+            "path": "assets/images/12_6/1/1.jpg"
           },
           {
-            "title": "11- نيشانطةها سجادين ل بةر مةزاريَ شةخسيَ باتيَ",
-            "path": "assets/images/12_6/1/11.jpg"
-          },
-          {
-            "title": "12- نيشانطةها ناسردين ل بةر مةزاريَ شةخسيَ باتيَ",
-            "path": "assets/images/12_6/1/12.jpg"
-          },
-          {
-            "title": "13- بةريَ خيظةتيَ ل بةر مةزاريَ شةخسيَ باتيَ",
-            "path": "assets/images/12_6/1/13.jpg"
-          },
-          {
-            "title": "14- دةرطةهيَ مةرطةهيَ  ل بةر مةزاريَ شةخسيَ باتيَ",
-            "path": "assets/images/12_6/1/14.jpg"
-          },
-          {
-            "title": "15- نيشانطةها خدرالياس",
-            "path": "assets/images/12_6/1/15.jpg"
-          },
-          {
-            "title": "16- نيشانطةها شيَخو بةكر ل طونديَ بابيريَ",
-            "path": "assets/images/12_6/1/16.jpg"
-          },
-          {
-            "title": "17- مةزاريَ شيخ حةسةن (مةلك شخسيَن) ل طوندي بابيري",
-            "path": "assets/images/12_6/1/17.jpg"
-          },
-          {
-            "title": "18- قوبا بليَل حةبشي ل طوندي بابيري",
-            "path": "assets/images/12_6/1/18.jpg"
-          },
-          {
-            "title": "19- نيشانطةها  شيَخ بابك ل طونديَ بابيريَ",
-            "path": "assets/images/12_6/1/19.jpg"
-          },
-          {
-            "title": "2- قوبا ئدريس خةيات ل بةر مةزارطةهيَ شةخسيَ باتي",
+            "title": "2- قوبا ئدریس خه‌یات ل به‌ر مه‌زارگه‌هێ شه‌خسێ باتی",
             "path": "assets/images/12_6/1/2.jpg"
           },
           {
-            "title": "20- نيشانطةها بازيدي بةستامي ل طوندى بابيرى",
-            "path": "assets/images/12_6/1/20.jpg"
-          },
-          {
-            "title": "22- نيشانا تاووسي مةلك ل طونديَ بابيريَ",
-            "path": "assets/images/12_6/1/22.jpg"
-          },
-          {
-            "title": "3- قوبا طاظانيَ زةرزرا ل بةر مةزارطةهيَ شةخسيَ باتي",
+            "title": "3- قوبا گاڤانێ زه‌رزرا ل به‌ر مه‌زارگه‌هێ شه‌خسێ باتی",
             "path": "assets/images/12_6/1/3.jpg"
           },
           {
-            "title": "4- قوبا ثير ئافات ل بةر مةزاريَ شةخسيَ باتيَ",
+            "title": "4- قوبا پیر ئافات ل به‌ر مه‌زارێ شه‌خسێ باتێ",
             "path": "assets/images/12_6/1/4.jpg"
           },
           {
-            "title": "5- دةرةجا سلتان ئيَزي",
+            "title": "5- ده‌ره‌جا سلتان ئێزی",
             "path": "assets/images/12_6/1/5.jpg"
           },
           {
-            "title": "6-  نيشانطةها ئامادين ل بةر مةزاريَ شةخسيَ باتيَ",
+            "title": "6-  نیشانگه‌ها ئامادین ل به‌ر مه‌زارێ شه‌خسێ باتێ",
             "path": "assets/images/12_6/1/6.jpg"
           },
           {
-            "title": "7-  نيشانطةها بابادين ل بةر مةزاريَ شةخسيَ باتيَ",
+            "title": "7-  نیشانگه‌ها بابادین ل به‌ر مه‌زارێ شه‌خسێ باتێ",
             "path": "assets/images/12_6/1/7.jpg"
           },
           {
-            "title": "8- قوبا دروشيَ دنا لبةر شةخسيَ باتيَ",
+            "title": "8- قوبا دروشێ دنا لبه‌ر شه‌خسێ باتێ",
             "path": "assets/images/12_6/1/8.jpg"
           },
           {
-            "title": "9- نيشانا مةلك فخرةدين ل بةر مةزاريَ شةحسيَ باتيَ",
+            "title": "9- نیشانگه‌ها مه‌لك فخره‌دین ل به‌ر مه‌زارێ شه‌حسێ باتێ",
             "path": "assets/images/12_6/1/9.jpg"
           },
           {
-            "title": "ئيَك طونديَ بابيريَ",
+            "title": "10- نیشانگه‌ها جۆقه‌تا شامێ ل به‌ر مه‌زارێ شه‌حسێ باتێ",
+            "path": "assets/images/12_6/1/10.jpg"
+          },
+          {
+            "title": "11- نیشانگه‌ها سجادین ل به‌ر مه‌زارێ شه‌خسێ باتێ",
+            "path": "assets/images/12_6/1/11.jpg"
+          },
+          {
+            "title": "12- نیشانگه‌ها ناسردین ل به‌ر مه‌زارێ شه‌خسێ باتێ",
+            "path": "assets/images/12_6/1/12.jpg"
+          },
+          {
+            "title": "13- به‌رێ خیڤه‌تێ ل به‌ر مه‌زارێ شه‌خسێ باتێ",
+            "path": "assets/images/12_6/1/13.jpg"
+          },
+          {
+            "title": "14- ده‌رگه‌هێ مه‌رگه‌هێ  ل به‌ر مه‌زارێ شه‌خسێ باتێ",
+            "path": "assets/images/12_6/1/14.jpg"
+          },
+          {
+            "title": "15- نیشانگه‌ها خدرالیاس",
+            "path": "assets/images/12_6/1/15.jpg"
+          },
+          {
+            "title": "16- نیشانگه‌ها شێخو به‌كر ل گوندێ بابیرێ",
+            "path": "assets/images/12_6/1/16.jpg"
+          },
+          {
+            "title": "17- مه‌زارێ شیخ حه‌سه‌ن (مه‌لك شخسێن) ل گوندی بابیری",
+            "path": "assets/images/12_6/1/17.jpg"
+          },
+          {
+            "title": "18- قوبا بلێل حه‌بشی ل گوندی بابیری",
+            "path": "assets/images/12_6/1/18.jpg"
+          },
+          {
+            "title": "19- نیشانگه‌ها  شێخ بابك ل گوندێ بابیرێ",
+            "path": "assets/images/12_6/1/19.jpg"
+          },
+          {
+            "title": "20- نیشانگه‌ها بازیدی به‌ستامی ل گوندى بابیرى",
+            "path": "assets/images/12_6/1/20.jpg"
+          },
+          {
+            "title": "22- نیشانگه‌ها تاووسی مه‌لك ل گوندێ بابیرێ",
+            "path": "assets/images/12_6/1/22.jpg"
+          },
+          {
+            "title": "گوندێ بابیرێ",
             "path": "assets/images/12_6/1/1.png"
           }
         ]
       },
       {
-        "title": "2",
+        "title": "12-6-2 گوندێ جه‌گانه‌",
         "pics": [
           {
-            "title": "1- مةزارطةهيَ شةخسيَ باتي",
+            "title": "1- مه‌زارگه‌هێ شه‌خسێ باتی",
             "path": "assets/images/12_6/2/1.jpg"
           },
           {
-            "title": "2- نيشانطةها حةسةن دةقيق لبةر مةزاريَ شيَخ موخفي",
+            "title": "2- نیشانگه‌ها حه‌سه‌ن ده‌قیق لبه‌ر مه‌زارێ شێخ موخفی",
             "path": "assets/images/12_6/2/2.jpg"
           },
           {
-            "title": "3- نيشانطةها بليل (بالوول) لبةر مةزاريَ شيَخ موخفي",
+            "title": "3- نیشانگه‌ها بلیل (بالوول) لبه‌ر مه‌زارێ شێخ موخفی",
             "path": "assets/images/12_6/2/3.jpg"
           },
           {
-            "title": "4- نيشانطةها شةخسيَ باتيَ لبةر مةزاريَ شيَخ موخفي",
+            "title": "4- نیشانگه‌ها شه‌خسێ باتێ لبه‌ر مه‌زارێ شێخ موخفی",
             "path": "assets/images/12_6/2/4.jpg"
           },
           {
-            "title": "5- نيشلتطةها شيخادي ل بةر مةزاريَ شيَخ موخفي",
+            "title": "5- نیشانگه‌ها شیخادی ل به‌ر مه‌زارێ شێخ موخفی",
             "path": "assets/images/12_6/2/5.jpg"
           }
         ]
       },
       {
-        "title": "3",
+        "title": "12-6-3 گوندێ مشرفێ",
         "pics": [
           {
-            "title": "1- مةزارطةهيَ شيَخ حةسةن (مةلك شيخسن) ل طونديَ مشرظيَ",
+            "title": "1- مه‌زارگه‌هێ شێخ حه‌سه‌ن (مه‌لك شیخسن) ل گوندێ مشرڤێ",
             "path": "assets/images/12_6/3/1.jpg"
           },
           {
-            "title": "2- مةزارطةهيَ بابادين ل طونديَ مشرظيَ",
+            "title": "2- مه‌زارگه‌هێ بابادین ل گوندێ مشرڤێ",
             "path": "assets/images/12_6/3/2.jpg"
           },
           {
-            "title": "3- نيشانطةها شيَخ مووسيَ سؤر ل طونديَ مشرفىَ",
+            "title": "3- نیشانگه‌ها شێخ مووسێ سۆر ل گوندێ مشرفێ",
             "path": "assets/images/12_6/3/3.jpg"
           }
         ]
@@ -1662,239 +1722,242 @@
     ]
   },
   {
-    "title": "12-7 دةظةرا باشيك و بةحزانيَ",
+    "title": "12-7 ده‌ڤه‌را باشیك و به‌حزانێ",
     "subchapters": [
       {
-        "title": "1",
+        "title": "12-7-1 باشيك ",
         "pics": [
           {
-            "title": "1- مةزارطةهيَ ثيربوب",
+            "title": "1- مه‌زارگه‌هێ پیربوب",
             "path": "assets/images/12_7/1/1.jpg"
           },
           {
-            "title": "2- مةزارطةهيَ شيَخ شمس",
+            "title": "2- مه‌زارگه‌هێ شێخ شمس",
             "path": "assets/images/12_7/1/2.jpg"
           },
           {
-            "title": "3- مةزاريَ سةخري جن",
+            "title": "3- مه‌زارێ سه‌خری جن",
             "path": "assets/images/12_7/1/3.jpg"
           },
           {
-            "title": "4- مةزارطةهيَ  سجادين",
+            "title": "4- مه‌زارگه‌هێ  سجادین",
             "path": "assets/images/12_7/1/4.jpg"
           },
           {
-            "title": "5- مةزارطةهيَ شيخوبةكر",
+            "title": "5- مه‌زارگه‌هێ شیخوبه‌كر",
             "path": "assets/images/12_7/1/5.jpg"
           },
           {
-            "title": "6- نيشانطةها ثير بنوك",
+            "title": "6- نیشانگه‌ها پیر بنوك",
             "path": "assets/images/12_7/1/6.jpg"
           },
           {
-            "title": "7- مةزارطةهيَ شيَخ مةند",
+            "title": "7- مه‌زارگه‌هێ شێخ مه‌ند",
             "path": "assets/images/12_7/1/7.jpg"
           },
           {
-            "title": "8- مةزارطةهيَ شيَخ عبدالقادر رةحماني",
+            "title": "8- مه‌زارگه‌هێ شێخ عبدالقادر ره‌حمانی",
             "path": "assets/images/12_7/1/8.jpg"
           },
           {
-            "title": "9- قوبا طاظانيَ زةرزا",
+            "title": "9- قوبا گاڤانێ زه‌رزا",
             "path": "assets/images/12_7/1/9.jpg"
           },
           {
-            "title": "10- مةزارطةهيَ غةفوريَ ريَيا (شيَخ مشةلةح)",
+            "title": "10- مه‌زارگه‌هێ غه‌فورێ رێیا (شێخ مشه‌له‌ح)",
             "path": "assets/images/12_7/1/10.jpg"
           },
           {
-            "title": "11- مةزارطةهيَ شيَخ حةسن ( مةلك شيَخ سن)",
+            "title": "11- مه‌زارگه‌هێ شێخ حه‌سن ( مه‌لك شێخ سن)",
             "path": "assets/images/12_7/1/11.jpg"
           },
           {
-            "title": "12- مةزاريَ شيَخ زيَندين",
+            "title": "12- مه‌زارێ شێخ زێندین",
             "path": "assets/images/12_7/1/12.jpg"
           },
           {
-            "title": "13- مةزاريَ شيَخ مةهمةديَ باتنيَ (خوَرستاني)",
+            "title": "13- مه‌زارێ شێخ مه‌همه‌دێ باتنێ (خۆرستانی)",
             "path": "assets/images/12_7/1/13.jpg"
           },
           {
-            "title": "14- مةزاريَ ستييا حةبيب",
+            "title": "14- مه‌زارێ ستییا حه‌بیب",
             "path": "assets/images/12_7/1/14.jpg"
           },
           {
-            "title": "15- مةزاريَ خةجيجا خؤرستاني",
+            "title": "15- مه‌زارێ خه‌جیجا خۆرستانی",
             "path": "assets/images/12_7/1/15.jpg"
           },
           {
-            "title": "16- قوبا شيَخ بابك",
+            "title": "16- قوبا شێخ بابك",
             "path": "assets/images/12_7/1/16.jpg"
           },
           {
-            "title": "17- مةزارطةهيَ سيعد و قوبا مةسعوود",
+            "title": "17- مه‌زارگه‌هێ سیعد و قوبا مه‌سعوود",
             "path": "assets/images/12_7/1/17.jpg"
           },
           {
-            "title": "18- مةزاريَ عةبدولعةزيزيَ حةربي",
+            "title": "18- مه‌زارێ عه‌بدولعه‌زیزێ حه‌ربی",
             "path": "assets/images/12_7/1/18.jpg"
           },
           {
-            "title": "19- مةزاريَ ميريَ كاظيَ (باب الكاف)",
+            "title": "19- مه‌زارێ میرێ كاڤێ (باب الكاف)",
             "path": "assets/images/12_7/1/19.jpg"
           },
           {
-            "title": "20- مةزاريَ كاني زةركيَ",
+            "title": "20- مه‌زارێ كانی زه‌ركێ",
             "path": "assets/images/12_7/1/20.jpg"
           },
           {
-            "title": "21- قوبا عةبديَ رةش",
+            "title": "21- قوبا عه‌بدێ ره‌ش",
             "path": "assets/images/12_7/1/21.jpg"
           },
           {
-            "title": "22- ئاقدا عةبديَ رةش",
+            "title": "22- ئاقدا عه‌بدێ ره‌ش",
             "path": "assets/images/12_7/1/22.jpg"
           },
           {
-            "title": "23- مةزاريَ ستييا بلغان",
+            "title": "23- مه‌زارێ ستییا بلغان",
             "path": "assets/images/12_7/1/23.jpg"
           },
           {
-            "title": "24- مةزاريَ بةريَ شباكيَ",
+            "title": "24- مه‌زارێ به‌رێ شباكێ",
             "path": "assets/images/12_7/1/24.jpg"
           },
           {
-            "title": "25- مةزاريَ سلتان ئيَزي",
+            "title": "25- مه‌زارێ سلتان ئێزی",
             "path": "assets/images/12_7/1/25.jpg"
           },
-          { "title": "26- مقام المارة", "path": "assets/images/12_7/1/26.jpg" },
           {
-            "title": "28- نيشانطةها بالوول (بةهلوول)",
+            "title": "26- مقام الماره‌",
+            "path": "assets/images/12_7/1/26.jpg"
+          },
+          {
+            "title": "28- نیشانگه‌ها بالوول (به‌هلوول)",
             "path": "assets/images/12_7/1/28.jpg"
           },
           {
-            "title": "29- نيشانطةها ثير حةمص",
+            "title": "29- نیشانگه‌ها پیر حه‌مص",
             "path": "assets/images/12_7/1/29.jpg"
           },
           {
-            "title": "30- نيشانطةها هةسن ثيرك",
+            "title": "30- نیشانگه‌ها هه‌سن پیرك",
             "path": "assets/images/12_7/1/30.jpg"
           },
           {
-            "title": "31- مةزاريَ شيَخ موسيَ سؤر",
+            "title": "31- مه‌زارێ شێخ موسێ سۆر",
             "path": "assets/images/12_7/1/31.jpg"
           },
           {
-            "title": "32- نيشانطةها ستيا حةبيب (بيت ست حبيبي)",
+            "title": "32- نیشانگه‌ها ستیا حه‌بیب (بیت ست حبیبی)",
             "path": "assets/images/12_7/1/32.jpg"
           },
           {
-            "title": "33- نيشانطةها ناسردين",
+            "title": "33- نیشانگه‌ها ناسردین",
             "path": "assets/images/12_7/1/33.jpg"
           },
           {
-            "title": "34- نيشانطةها ستيا ئيس",
+            "title": "34- نیشانگه‌ها ستیا ئیس",
             "path": "assets/images/12_7/1/34.jpg"
           },
           {
-            "title": "35- نيشانطةها مةهمد رةشان",
+            "title": "35- نیشانگه‌ها مه‌همد ره‌شان",
             "path": "assets/images/12_7/1/35.jpg"
           },
           {
-            "title": "36- نيشانطةها ثير هاجالي",
+            "title": "36- نیشانگه‌ها پیر هاجالی",
             "path": "assets/images/12_7/1/36.jpg"
           },
           {
-            "title": "37- نيشانطةها دةنوونيَ مصري",
+            "title": "37- نیشانگه‌ها ده‌نوونێ مصری",
             "path": "assets/images/12_7/1/37.jpg"
           },
           {
-            "title": "38- نيشانطةها ثير مةند (حجر كرمك)",
+            "title": "38- نیشانگه‌ها پیر مه‌ند (حجر كرمك)",
             "path": "assets/images/12_7/1/38.jpg"
           },
           {
-            "title": "ئيك دةظةرا  بةحزانيَ",
+            "title": "ده‌ڤه‌را  باشيك",
             "path": "assets/images/12_7/1/39.png"
           }
         ]
       },
       {
-        "title": "2",
+        "title": "12-7-2 به‌حزانێ ",
         "pics": [
           {
-            "title": "مةزارطةهيَ شةرفةدين",
+            "title": "1- مه‌زارگه‌هێ شه‌رفه‌دین",
             "path": "assets/images/12_7/2/1.jpg"
           },
           {
-            "title": "مةزارطةهيَ  ناسردين",
+            "title": "2- مه‌زارگه‌هێ  ناسردین",
             "path": "assets/images/12_7/2/2.jpg"
           },
           {
-            "title": "مةزارطةهيَ مةلكي ميَران",
+            "title": "3- مه‌زارگه‌هێ مه‌لكی مێران",
             "path": "assets/images/12_7/2/3.jpg"
           },
           {
-            "title": "مةزارطةهيَ شيَخ مةهمديَ",
+            "title": "4- مه‌زارگه‌هێ شێخ مه‌همدێ",
             "path": "assets/images/12_7/2/4.jpg"
           },
           {
-            "title": "مةزاريَ يوسف قةرةني",
+            "title": "5- مه‌زارێ یوسف قه‌ره‌نی",
             "path": "assets/images/12_7/2/5.jpg"
           },
           {
-            "title": "مةزاريَ مةهمةد رةشان",
+            "title": "6- مه‌زارێ مه‌همه‌د ره‌شان",
             "path": "assets/images/12_7/2/6.jpg"
           },
           {
-            "title": "مةزاريَ ئةبو ريش",
+            "title": "8- مه‌زارێ ئه‌بو ریش",
             "path": "assets/images/12_7/2/8.jpg"
           },
           {
-            "title": "مةزاريَ ستييا نةفيس",
+            "title": "9- مةزاريَ ستييا نةفيس",
             "path": "assets/images/12_7/2/9.jpg"
           },
           {
-            "title": "نيشانطةها شيَخ مووسيَ سؤر",
+            "title": "10- نیشانگه‌ها شێخ مووسێ سۆر",
             "path": "assets/images/12_7/2/10.jpg"
           },
           {
-            "title": "مةزاريَ حةسةن طةيار",
+            "title": "11- مه‌زارێ حه‌سه‌ن گه‌یار",
             "path": "assets/images/12_7/2/11.jpg"
           },
           {
-            "title": "مةزاريَ حةسةن فةردؤس",
+            "title": "12- مه‌زارێ حه‌سه‌ن فه‌ردۆس",
             "path": "assets/images/12_7/2/12.jpg"
           },
           {
-            "title": "نيشانطةها فةقير عةلي",
+            "title": "18- نیشانگه‌ها فه‌قیر عه‌لی",
             "path": "assets/images/12_7/2/18.jpg"
           },
           {
-            "title": "نيشانطةها شيَخ سماييليَ عنزةلي",
+            "title": "22- نیشانگه‌ها شێخ سماییلێ عنزه‌لی",
             "path": "assets/images/12_7/2/22.jpg"
           },
           {
-            "title": "نيشانطةها كاني زةركي نيَزيك كانيا باشيك",
+            "title": "23- نیشانگه‌ها كانی زه‌ركی نێزیك كانیا باشیك",
             "path": "assets/images/12_7/2/23.jpg"
           },
           {
-            "title": "نيشانطةها عبدلعزيز",
+            "title": "24- نیشانگه‌ها عبدلعزیز",
             "path": "assets/images/12_7/2/24.jpg"
           },
           {
-            "title": "نيشانا عةبديَ رةش",
+            "title": "25-  نیشانگه‌ها عه‌بدێ ره‌ش",
             "path": "assets/images/12_7/2/25.jpg"
           },
           {
-            "title": "نيشانطةها ستيا ئي",
+            "title": "28- نیشانگه‌ها ستیا ئیس",
             "path": "assets/images/12_7/2/28.jpg"
           },
           {
-            "title": "نيشانطةها باب الكا",
+            "title": "29- نیشانگه‌ها باب الكا",
             "path": "assets/images/12_7/2/29.jpg"
           },
           {
-            "title": "دوو دةظةرا  بةحزانيَ",
+            "title": "ده‌ڤه‌را  به‌حزانێ",
             "path": "assets/images/12_7/2/30.png"
           }
         ]
@@ -1902,315 +1965,315 @@
     ]
   },
   {
-    "title": "12-8 دةظةرا شاريا ( قائيدي، خالتي، دنا و دوملي)",
+    "title": "12-8 ده‌ڤه‌را شاریا ( قائیدی، خالتی، دنا و دوملی)",
     "subchapters": [
       {
-        "title": "1",
+        "title": "12-8-1 گوندێ شاریا",
         "pics": [
           {
-            "title": "نيشانطةها شيَخ بليَ شةمسا",
+            "title": "1- نیشانگه‌ها شێخ بلێ شه‌مسا",
             "path": "assets/images/12_8/1/1.jpg"
           },
           {
-            "title": "نيشانطةها ستييا زين",
+            "title": "2- نیشانگه‌ها ستییا زین",
             "path": "assets/images/12_8/1/2.jpg"
           },
           {
-            "title": "نيشانطةها ثيريَ",
+            "title": "3- نیشانگه‌ها پیرێ",
             "path": "assets/images/12_8/1/3.jpg"
           },
           {
-            "title": "نيشانطةها ثير ئاظات",
+            "title": "4- نیشانگه‌ها پیر ئاڤات",
             "path": "assets/images/12_8/1/4.jpg"
           },
           {
-            "title": "ئيَك  طونديَ شاريا ل طؤمةلطةها شاريا",
+            "title": "گوندێ شاریا ",
             "path": "assets/images/12_8/1/5.png"
           }
         ]
       },
       {
-        "title": "2",
+        "title": "12-8-2 گوندێ شێخدرێ",
         "pics": [
           {
-            "title": "شيَخ خدريَ شةمسا",
+            "title": "1- شێخ خدرێ شه‌مسا",
             "path": "assets/images/12_8/2/1.jpg"
           },
           {
-            "title": "نيشانطةها خاتووتا فةخران",
+            "title": "2- نیشانگه‌ها خاتووتا فه‌خران",
             "path": "assets/images/12_8/2/2.jpg"
           },
           {
-            "title": "نيشانطةها كةرةجال",
+            "title": "3- نیشانگه‌ها كه‌ره‌جال",
             "path": "assets/images/12_8/2/3.jpg"
           },
           {
-            "title": "نيشانطةها شيَخاليَ شةمسا",
+            "title": "4- نیشانگه‌ها شێخالێ شه‌مسا",
             "path": "assets/images/12_8/2/4.jpg"
           },
           {
-            "title": "نيشانطةها ثيريَ",
+            "title": "5- نیشانگه‌ها پیرێ",
             "path": "assets/images/12_8/2/5.jpg"
           },
           {
-            "title": "نيشانطةها خةند خةندؤك",
+            "title": "6- نیشانگه‌ها خه‌ند خه‌ندۆك",
             "path": "assets/images/12_8/2/6.jpg"
           },
           {
-            "title": "نيشانطةها ئيَزي",
+            "title": "7- نیشانگه‌ها ئێزی",
             "path": "assets/images/12_8/2/7.jpg"
           },
           {
-            "title": "دوو  طونديَ شيَخدريَ",
+            "title": "گوندێ شێخدرێ",
             "path": "assets/images/12_8/2/8.png"
           }
         ]
       },
       {
-        "title": "3",
+        "title": "12-8-3 گوندێ سینا",
         "pics": [
           {
-            "title": "مةزاريَ كةرةجال",
+            "title": "1- مه‌زارێ كه‌ره‌جال",
             "path": "assets/images/12_8/3/1.jpg"
           },
           {
-            "title": "نيشانطةها شةمسيَ ثيرا",
+            "title": "2- نیشانگه‌ها شه‌مسێ پیرا",
             "path": "assets/images/12_8/3/2.jpg"
           },
           {
-            "title": "نيشانطةها بابيَ هؤركا",
+            "title": "3- نیشانگه‌ها بابێ هۆركا",
             "path": "assets/images/12_8/3/3.jpg"
           },
           {
-            "title": "نيشانطةها بةدوك",
+            "title": "4- نیشانگه‌ها به‌دوك",
             "path": "assets/images/12_8/3/4.jpg"
           },
           {
-            "title": "نيشانطةها ضلميَران",
+            "title": "5- نیشانگه‌ها چلمێران",
             "path": "assets/images/12_8/3/5.jpg"
           },
           {
-            "title": "نيشانطةها ثير بوب",
+            "title": "6- نیشانگه‌ها پیر بوب",
             "path": "assets/images/12_8/3/6.jpg"
           },
           {
-            "title": "نيشانطةها ئيَزي",
+            "title": "7- نیشانگه‌ها ئێزی",
             "path": "assets/images/12_8/3/7.jpg"
           },
           {
-            "title": "نيشانطةها شيَخ مووسيَ سؤر",
+            "title": "8- نیشانگه‌ها شێخ مووسێ سۆر",
             "path": "assets/images/12_8/3/8.jpg"
           },
           {
-            "title": "نيشانطةها شيَخيَ زةري",
+            "title": "9- نیشانگه‌ها شێخێ زه‌ری",
             "path": "assets/images/12_8/3/9.jpg"
           },
           {
-            "title": "نيشانطةها عةبديَ رةش",
+            "title": "10- نیشانگه‌ها عه‌بدێ ره‌ش",
             "path": "assets/images/12_8/3/10.jpg"
           },
           {
-            "title": "نيشانطةها شيَخ بابك",
+            "title": "11- نیشانگه‌ها شێخ بابك",
             "path": "assets/images/12_8/3/11.jpg"
           },
           {
-            "title": "طيَلا مير ئةتلةس",
+            "title": "12- گێلا میر ئه‌تله‌س",
             "path": "assets/images/12_8/3/12.jpg"
           },
           {
-            "title": "سيَ  طونديَ سينيا",
+            "title": "گوندێ سینیا",
             "path": "assets/images/12_8/3/13.png"
           }
         ]
       },
       {
-        "title": "4",
+        "title": "12-8-4 گوندێ ركاڤایێ",
         "pics": [
           {
-            "title": "شيَخ حةسةن ( مةلك شيَخسن )",
+            "title": "1- شێخ حه‌سه‌ن ( مه‌لك شێخسن )",
             "path": "assets/images/12_8/4/1.jpg"
           },
           {
-            "title": "نيشانطةها ئيَك سوار (سواريَ ب تنيَ)",
+            "title": "2- نیشانگه‌ها ئێك سوار (سوارێ ب تنێ)",
             "path": "assets/images/12_8/4/2.jpg"
           },
           {
-            "title": "نيشانطةها شيخوبةكر",
+            "title": "3- نیشانگه‌ها شیخوبه‌كر",
             "path": "assets/images/12_8/4/3.jpg"
           },
           {
-            "title": "نيشانطةها سواريَ ب تنيَ",
+            "title": "4- نیشانگه‌ها سوارێ ب تنێ",
             "path": "assets/images/12_8/4/4.jpg"
           },
           {
-            "title": "نيشانطةها ثيرافات",
+            "title": "5- نیشانگه‌ها پیرافات",
             "path": "assets/images/12_8/4/5.jpg"
           },
           {
-            "title": "نيشانطةها شيَخ طةمبوور",
+            "title": "6- نیشانگه‌ها شێخ گه‌مبوور",
             "path": "assets/images/12_8/4/6.jpg"
           },
           {
-            "title": "ضار  طونديَ ركاظاييَ",
+            "title": " گوندێ ركاڤایێ",
             "path": "assets/images/12_8/4/7.png"
           }
         ]
       },
       {
-        "title": "5",
+        "title": "12-8-5 گوندێ خه‌رشانیا",
         "pics": [
           {
-            "title": "مةزارطةهيَ شيَخ عةنزةروت",
+            "title": "1- مه‌زارگه‌هێ شێخ عه‌نزه‌روت",
             "path": "assets/images/12_8/5/1.jpg"
           },
           {
-            "title": "مةزاريَ بازيديَ بةستامي ل طونديَ خةرشةنييا",
+            "title": "2- مه‌زارێ بازیدێ به‌ستامی ل گوندێ خه‌رشه‌نییا",
             "path": "assets/images/12_8/5/2.jpg"
           },
           {
-            "title": "سلاظطةهيَن بازيديَ بةستامي",
+            "title": "3- سلاڤگه‌هێن بازیدێ به‌ستامی",
             "path": "assets/images/12_8/5/3.jpg"
           },
           {
-            "title": "مةزاريَ عةبديَ رةش",
+            "title": "4- مه‌زارێ عه‌بدێ ره‌ش",
             "path": "assets/images/12_8/5/4.jpg"
           },
           {
-            "title": "نيشانطةها ثير ئاظات",
+            "title": "5- نیشانگه‌ها پیر ئاڤات",
             "path": "assets/images/12_8/5/5.jpg"
           },
           {
-            "title": "نيشانطةها ستييا مامى",
+            "title": "7- نیشانگه‌ها ستییا مامى",
             "path": "assets/images/12_8/5/7.jpg"
           },
           {
-            "title": "نيشانطةها ثير باكوز",
+            "title": "8- نیشانگه‌ها پیر باكوز",
             "path": "assets/images/12_8/5/8.jpg"
           },
           {
-            "title": "ثيَنض طونديَ خرشانيا",
+            "title": "گوندێ خرشانیا",
             "path": "assets/images/12_8/5/9.png"
           }
         ]
       },
       {
-        "title": "6",
+        "title": "12-8-6 گوندێ گرێپانێ",
         "pics": [
           {
-            "title": "مةزارطةهيَ شيَشمس",
+            "title": "1- مه‌زارگه‌هێ شێشمس",
             "path": "assets/images/12_8/6/1.jpg"
           },
           {
-            "title": "نيشانطةها ثيرئافات",
+            "title": "2- نیشانگه‌ها پیرئافات",
             "path": "assets/images/12_8/6/2.jpg"
           },
           {
-            "title": "شةش  طونديَ طريَثانيَ",
+            "title": "گوندێ گرێپانێ",
             "path": "assets/images/12_8/6/3.png"
           }
         ]
       },
       {
-        "title": "7",
+        "title": "12-8-7 گوندێ كه‌له‌بدرێ",
         "pics": [
           {
-            "title": "نيشانطةها ئيَزي",
+            "title": "1- نیشانگه‌ها ئێزی",
             "path": "assets/images/12_8/7/1.jpg"
           },
           {
-            "title": "نيشانطةها مةلك شيَخسن",
+            "title": "2- نیشانگه‌ها مه‌لك شێخسن",
             "path": "assets/images/12_8/7/2.jpg"
           },
           {
-            "title": "نيشانطةها ناسردين",
+            "title": "3- نیشانگه‌ها ناسردین",
             "path": "assets/images/12_8/7/3.jpg"
           },
           {
-            "title": "نيشانطةها شيَخ باب",
+            "title": "4- نیشانگه‌ها شێخ بابك",
             "path": "assets/images/12_8/7/4.jpg"
           },
           {
-            "title": "هةفت طونديَ كةلةبةدريَ",
+            "title": "گوندێ كه‌له‌به‌درێ",
             "path": "assets/images/12_8/7/5.png"
           }
         ]
       },
       {
-        "title": "8",
+        "title": "12-8-9 گوندێ داكا بجوك",
         "pics": [
           {
-            "title": "قوبا  شيخوبةكر",
+            "title": "1- قوبا  شیخوبه‌كر",
             "path": "assets/images/12_8/8/1.jpg"
           },
           {
-            "title": "نيشانطةها عةبديَ رةش",
+            "title": "2- نیشانگه‌ها عه‌بدێ ره‌ش",
             "path": "assets/images/12_8/8/2.jpg"
           },
           {
-            "title": "نيشانطةها شيَخدريَ شمسا",
+            "title": "3- نیشانگه‌ها شێخدرێ شمسا",
             "path": "assets/images/12_8/8/3.jpg"
           },
           {
-            "title": "نيشانطةها ئيزدينةمبر شةمساني",
+            "title": "4- نیشانگه‌ها ئیزدینه‌مبر شه‌مسانی",
             "path": "assets/images/12_8/8/4.jpg"
           },
           {
-            "title": "نيشانطةها دةقيَ ميَرا (حةسةن دةقيق)",
+            "title": "5- نیشانگه‌ها ده‌قێ مێرا (حه‌سه‌ن ده‌قیق)",
             "path": "assets/images/12_8/8/5.jpg"
           },
           {
-            "title": "نةه طونديَ داكا كضك",
+            "title": "گوندێ داكا كچك",
             "path": "assets/images/12_8/8/6.png"
           }
         ]
       },
 
       {
-        "title": "10",
+        "title": "12-8-10 گوندێ داكا مه‌زن",
         "pics": [
           {
-            "title": "نيشانطةها ستيا حةبيب",
+            "title": "1- نیشانگه‌ها ستیا حه‌بیب",
             "path": "assets/images/12_8/10/1.jpg"
           },
           {
-            "title": "نيشانطةها حةكيم فيَرس",
+            "title": "2- نیشانگه‌ها حه‌كیم فێرس",
             "path": "assets/images/12_8/10/2.jpg"
           },
           {
-            "title": "مةزارطةهيَ ثيرافات",
+            "title": "3- مه‌زارگه‌هێ پیرافات",
             "path": "assets/images/12_8/10/3.jpg"
           },
           {
-            "title": "مةزاركةهيَ مةلك شيَخسن",
+            "title": "4- مه‌زاركه‌هێ مه‌لك شێخسن",
             "path": "assets/images/12_8/10/4.jpg"
           },
           {
-            "title": "نيشانطةها كوريَ رةوال",
+            "title": "5- نیشانگه‌ها كورێ ره‌وال",
             "path": "assets/images/12_8/10/5.jpg"
           },
           {
-            "title": "نيشانطةها ئيَزي",
+            "title": "6- نیشانگه‌ها ئێزی",
             "path": "assets/images/12_8/10/6.jpg"
           },
           {
-            "title": "دةه  طونديَ داكا مةزن",
+            "title": "گوندێ داكا مه‌زن",
             "path": "assets/images/12_8/10/7.png"
           }
         ]
       },
       {
-        "title": "11",
+        "title": "12-8-11 گوندێن دۆروبه‌رێن گۆمه‌لگه‌ها شاریا",
         "pics": [
           {
-            "title": "مةزاريَ شيَخ حةراج ل فةيديَ",
+            "title": "2- مه‌زارێ شێخ حه‌راج ل فه‌یدێ",
             "path": "assets/images/12_8/11/2.jpg"
           },
           {
-            "title": "مةزاريَ ثيريَ ب خةلات ل طونديَ وشتيان",
+            "title": "5- مه‌زارێ پیرێ ب خه‌لات ل گوندێ وشتیان",
             "path": "assets/images/12_8/11/5.jpg"
           },
           {
-            "title": "مةزاريَ ئدريس خةيات ل طونديَ خؤركا",
+            "title": "6- مه‌زارێ ئدریس خه‌یات ل گوندێ خۆركا",
             "path": "assets/images/12_8/11/6.jpg"
           }
         ]
@@ -2221,115 +2284,115 @@
     "title": "12-9 دوبانا دنا",
     "subchapters": [
       {
-        "title": "1",
+        "title": "12-9-1 زێوه‌ مه‌مێ شڤان",
         "pics": [
           {
-            "title": "زيَوة مةميَ شظان",
+            "title": "1- زێوه‌ مه‌مێ شڤان",
             "path": "assets/images/12_9/1/1.jpg"
           },
           {
-            "title": "قوب و مةزاريَ شيَشمس",
+            "title": "2-1. قوب و مه‌زارێ شێشمس",
             "path": "assets/images/12_9/1/2.jpg"
           },
           {
-            "title": "مةزاريَ عةبدولرةحمان جةوزي (عةظدؤ رةحمان)",
+            "title": "2-2. قوبا شێخ بابك",
             "path": "assets/images/12_9/1/3.jpg"
           },
           {
-            "title": "مةزاريَ طاظانيَ زةرزا",
+            "title": "2-3. ئاقدا شێخوبه‌ركر",
             "path": "assets/images/12_9/1/4.jpg"
           },
           {
-            "title": "نيشانكةها غةفوريَ رييَا",
+            "title": "2-4. مه‌زارێ مهمه‌دێ ره‌به‌ن",
             "path": "assets/images/12_9/1/5.jpg"
           },
           {
-            "title": "قوبا شيَخ بابك",
+            "title": "2-5. قوبا شێخ مه‌ند و مه‌لك فخره‌دین",
             "path": "assets/images/12_9/1/6.jpg"
           },
           {
-            "title": "ئاقدا شيَخوبةركر",
+            "title": "2-6. قوبا شێخ حسن الادانی",
             "path": "assets/images/12_9/1/7.jpg"
           },
           {
-            "title": "مةزاريَ مهمةديَ رةبةن",
+            "title": "2-7.  خاتوونا فه‌خران",
             "path": "assets/images/12_9/1/8.jpg"
           },
           {
-            "title": "قوبا شيَخ مةند و مةلك فخرةدين",
+            "title": "2-8. مه‌مێ شڤان",
             "path": "assets/images/12_9/1/9.jpg"
           },
           {
-            "title": "قوبا شيَخ حسن الاداني",
+            "title": "2-9. ئاقدا شیخادی",
             "path": "assets/images/12_9/1/10.jpg"
           },
           {
-            "title": "خاتوونا فةخران",
+            "title": "2-10. مه‌زارێ عه‌بدولره‌حمان جه‌وزی (عه‌ڤدۆ ره‌حمان)",
             "path": "assets/images/12_9/1/11.jpg"
           },
           {
-            "title": "مةميَ شظان",
+            "title": "2-11. مه‌زارێ گاڤانێ زه‌رزا",
             "path": "assets/images/12_9/1/12.jpg"
           },
           {
-            "title": "ئاقدا شيخادي",
+            "title": "2-12. نیشانكه‌ها غه‌فورێ ریێا",
             "path": "assets/images/12_9/1/13.jpg"
           }
         ]
       },
       {
-        "title": "2",
+        "title": "12-9-2 ناحیا خانكێ",
         "pics": [
           {
-            "title": "1- مةزاري بازيدي بةستامي ل طوندي خانكا كةظن ييَ سيَيي",
+            "title": "1- مه‌زاری بازیدی به‌ستامی ل گوندی خانكا كه‌ڤن یێ سێیی",
             "path": "assets/images/12_9/2/1.jpg"
           },
           {
-            "title": "10- مةزارطةهيَ ضاويش ل كةبةرتويي",
-            "path": "assets/images/12_9/2/10.jpg"
-          },
-          {
-            "title": "12- قوبا شيَخ مةند ل طونديَ كةبةرتويي",
-            "path": "assets/images/12_9/2/12.jpg"
-          },
-          {
-            "title": "13- مةزارطةهيَ شيَخيَ زةري ل طونديَ ربيبييَ",
-            "path": "assets/images/12_9/2/13.jpg"
-          },
-          {
-            "title": "2- مةزاري بوَقةتار بابا ل طونديَ خانكا طةظن",
+            "title": "2- مه‌زاری بۆقه‌تار بابا ل گوندێ خانكا گه‌ڤن",
             "path": "assets/images/12_9/2/2.jpg"
           },
           {
-            "title": "27- سلاظطةها ئامادين",
-            "path": "assets/images/12_9/2/27.jpg"
-          },
-          {
-            "title": "3- مةزاري شةخيَ ناظا طوند ل طونديَ خانكيَ",
+            "title": "3- مه‌زاری شه‌خێ ناڤا گوند ل گوندێ خانكێ",
             "path": "assets/images/12_9/2/3.jpg"
           },
           {
-            "title": "4- نيشانطةها شيَخ حةمسي",
+            "title": "4- ننیشانگه‌ها شێخ حه‌مسی",
             "path": "assets/images/12_9/2/4.jpg"
           },
           {
-            "title": "5- سلاظطةها بازيد يا مةعميَ ئاظاكري ل طونديَ خانكيَ",
+            "title": "5- سلاڤگه‌ها بازید یا مه‌عمێ ئاڤاكری ل گوندێ خانكێ",
             "path": "assets/images/12_9/2/5.jpg"
           },
           {
-            "title": "6- مةزارطةهيَ شيَخ مةمةديَ جندار ل طونديَ زةينييا",
+            "title": "6- مه‌زارگه‌هێ شێخ مه‌مه‌دێ جندار ل گوندێ زه‌ینییا",
             "path": "assets/images/12_9/2/6.jpg"
           },
           {
-            "title": "7- مةزارطةهيَ شيَخ مةند ل خانكي",
+            "title": "7- مه‌زارگه‌هێ شێخ مه‌ند ل خانكی",
             "path": "assets/images/12_9/2/7.jpg"
           },
           {
-            "title": "8- شةخسيَ زةينييا ل طونديَ زةينيا",
+            "title": "8- شه‌خسێ زه‌ینییا ل گوندێ زه‌ینیا",
             "path": "assets/images/12_9/2/8.jpg"
           },
           {
-            "title": "دوو  طؤمةلطةها خانكيَ",
+            "title": "10- مه‌زارگه‌هێ چاویش ل كه‌به‌رتویی",
+            "path": "assets/images/12_9/2/10.jpg"
+          },
+          {
+            "title": "12- قوبا شێخ مه‌ند ل گوندێ كه‌به‌رتویی",
+            "path": "assets/images/12_9/2/12.jpg"
+          },
+          {
+            "title": "13- مه‌زارگه‌هێ شێخێ زه‌ری ل گوندێ ربیبیێ",
+            "path": "assets/images/12_9/2/13.jpg"
+          },
+          {
+            "title": "27- سلاڤگه‌ها ئامادین",
+            "path": "assets/images/12_9/2/27.jpg"
+          },
+          {
+            "title": "ناحيا خانكێ",
             "path": "assets/images/12_9/2/28.png"
           }
         ]
@@ -2337,21 +2400,21 @@
     ]
   },
   {
-    "title": "12-10 دةظةرا هوريا ديرةبوونيَ",
+    "title": "12-10 ده‌ڤه‌را هوریا دیره‌بوونێ",
     "subchapters": [
       {
-        "title": "1",
+        "title": "كۆمه‌لگه‌ها دێره‌بوونێ",
         "pics": [
           {
-            "title": "1- جهيَن بازيديَ بةستامى ل دةظةرا ديَرةبوونيَ",
+            "title": "1- جهێن بازیدێ به‌ستامى ل ده‌ڤه‌را دێره‌بوونێ",
             "path": "assets/images/12_10/1/1.png"
           },
           {
-            "title": "2-  مةزارطةهيَ عةظدى رةش ل ديرةبووني",
+            "title": "2- مه‌زارگه‌هێ عه‌ڤدى ره‌ش ل دیره‌بوونی",
             "path": "assets/images/12_10/1/2.jpg"
           },
           {
-            "title": "كؤمةلطةها ديَرةبوونيَ",
+            "title": "كۆمه‌لگه‌ها دێره‌بوونێ",
             "path": "assets/images/12_10/1/3.png"
           }
         ]
@@ -2359,514 +2422,557 @@
     ]
   },
   {
-    "title": "12-11 دةظةرا شنطال",
+    "title": "12-11 ده‌ڤه‌را شنگال",
     "subchapters": [
       {
-        "title": "1",
+        "title": "12-11-1 مه‌زارێن ده‌ڤه‌را شنگال",
         "pics": [
           {
-            "title": "مةزارطةهيَ ثيريَ ئةورا ل طوندي زيروة",
+            "title": "1- مه‌زارگه‌هێ پیرێ ئه‌ورا ل گوندی زیروه‌",
             "path": "assets/images/12_11/1/1.jpg"
           },
           {
-            "title": "مةزارطةهيَ عةبدولعوزيزيَ حةرجي طونديَ حةياليَ",
-            "path": "assets/images/12_11/1/2.jpg"
-          },
-          {
-            "title": "مةزاريَ سةخري جن",
+            "title": "2- مه‌زارێ سه‌خری جن",
             "path": "assets/images/12_11/1/3.jpg"
           },
           {
-            "title": "مةزارطةهيَ  كور بمبارك",
+            "title": "5- مه‌زارگه‌هێ  كور بمبارك",
             "path": "assets/images/12_11/1/4.jpg"
           },
           {
-            "title": "مةزارطةهيَ شيَخ بةركات ل طوندي ئوسفا",
+            "title": "6- مه‌زارگه‌هێ شێخ به‌ركات ل گوندی ئوسفا",
             "path": "assets/images/12_11/1/5.jpg"
           },
           {
-            "title": "مةزارطةهيَ شيَشمس ل طونديَ ئويسفا",
+            "title": "7- مه‌زارگه‌هێ شێشمس ل گوندێ ئویسفا",
             "path": "assets/images/12_11/1/6.jpg"
           },
           {
-            "title": "مةزارطةهيَ? شةرفةدين ل طونديَ رةشيد",
+            "title": "8- مه‌زارگه‌هێ‌ شه‌رفه‌دین ل گوندێ ره‌شید",
             "path": "assets/images/12_11/1/7.jpg"
           },
           {
-            "title": "مةزارطةهيَ ثيريَ هاجيال ل طونديَ عةسةن",
+            "title": "9- مه‌زارگه‌هێ پیرێ هاجیال ل گوندێ عه‌سه‌ن",
             "path": "assets/images/12_11/1/8.jpg"
           },
           {
-            "title": "مةزارطةهيَ ئيَزي ل طوندي تيرفىَ",
+            "title": "10- مه‌زارگه‌هێ ئێزی ل گوندی تیرفێ",
             "path": "assets/images/12_11/1/9.jpg"
           },
           {
-            "title": "مةزارطةهيَ شيَخ مةند ل طونديَ راشد",
+            "title": "11- مه‌زارگه‌هێ شێخ مه‌ند ل گوندێ راشد",
             "path": "assets/images/12_11/1/10.jpg"
           },
           {
-            "title": "مةزارطةهيَ ئةظدال ئؤمةرا ل طونديَ راشد",
+            "title": "12- مه‌زارگه‌هێ ئه‌ڤدال ئۆمه‌را ل گوندێ راشد",
             "path": "assets/images/12_11/1/11.jpg"
           },
           {
-            "title": "مةزارطةهيَ مقام مام خنوق و صيادي ( خةت خةندؤك)",
+            "title": "13- مه‌زارگه‌هێ مقام مام خنوق و صیادی ( خه‌ت خه‌ندۆك)",
             "path": "assets/images/12_11/1/12.jpg"
           },
           {
-            "title": "مةزارطةهيَ شيخ قوريش ل طونديَ ناسرية",
+            "title": "14- مه‌زارگه‌هێ شیخ قوریش ل گوندێ ناسریه‌",
             "path": "assets/images/12_11/1/13.jpg"
           },
           {
-            "title": "مةزارطةهيَ شيَبل قاسم ل ضيايي شنطالي",
+            "title": "15- مه‌زارگه‌هێ شێبل قاسم ل چیایی شنگالی",
             "path": "assets/images/12_11/1/14.jpg"
           },
           {
-            "title": "مةزارطةهيَ شيخادي ل طةلييَ كرسي",
+            "title": "16- مه‌زارگه‌هێ شیخادی ل گه‌لیێ كرسی",
             "path": "assets/images/12_11/1/15.jpg"
           },
           {
-            "title": "مةزارطةهيَ ضلميَران ل ضياييَ شنطاليَ",
+            "title": "17-  مه‌زارگه‌هێ چلمێران ل چیایێ شنگالێ",
             "path": "assets/images/12_11/1/16.jpg"
           },
           {
-            "title": "مةزارطةهيَ خاتونا فةخران  ل دةظةرا حليَقي",
+            "title": "18- مه‌زارگه‌هێ خاتونا فه‌خران  ل ده‌ڤه‌را حلێقی",
             "path": "assets/images/12_11/1/17.jpg"
           },
           {
-            "title": "مةزارطةهيَ شيَخ مةند و ئامادين دةظةرا حليَقي",
+            "title": "19- مه‌زارگه‌هێ شێخ مه‌ند و ئامادین ده‌ڤه‌را حلێقی",
             "path": "assets/images/12_11/1/18.jpg"
           },
           {
-            "title": "قوب و مةزارطةهيَ ئامادين دةظةرا حليَقي",
+            "title": "20- قوب و مه‌زارگه‌هێ ئامادین ده‌ڤه‌را حلێقی",
             "path": "assets/images/12_11/1/19.jpg"
           },
           {
-            "title": "مةزارطةهيَ ثيرافات ل طوندي جفرية",
+            "title": "21- مه‌زارگه‌هێ پیرافات ل گوندی جفریه‌",
             "path": "assets/images/12_11/1/20.jpg"
           },
           {
-            "title": "مةزارطةهيَ شيشمس ل طونديَ جحفرية",
+            "title": "22- مه‌زارگه‌هێ شیشمس ل گوندێ جحفریه‌",
             "path": "assets/images/12_11/1/21.jpg"
           },
           {
-            "title": "مةزارطةهيَ ثيريَ لبنا طوندي ئةلجةفرية",
+            "title": "23- مه‌زارگه‌هێ پیرێ لبنا گوندی ئه‌لجه‌فریه‌",
             "path": "assets/images/12_11/1/22.jpg"
           },
           {
-            "title": "مةزارطةهيَ ثيرافات طوندي جةفرية",
+            "title": "24- مه‌زارگه‌هێ پیرافات گوندی جه‌فریه‌",
             "path": "assets/images/12_11/1/23.jpg"
           },
           {
-            "title": "مةزارطةهيَ دةقي ميرا ( حةسةن دةقيق)",
+            "title": "25- مه‌زارگه‌هێ ده‌قی میرا ( حه‌سه‌ن ده‌قیق)",
             "path": "assets/images/12_11/1/24.jpg"
           },
           {
-            "title": "قوب و مةزارطةهيَ سواريَ طيَدوَكيَ طونديَ باراييَ",
+            "title": "26- قوب و مه‌زارگه‌هێ سوارێ گێدۆكێ گوندێ بارایێ",
             "path": "assets/images/12_11/1/25.jpg"
           },
           {
-            "title": "مةزارطةهيَ شيخالي شمسا",
+            "title": "27- مه‌زارگه‌هێ شیخالی شمسا",
             "path": "assets/images/12_11/1/26.jpg"
           },
           {
-            "title": "مةزارطةهيَ كلي شلو",
+            "title": "28- مه‌زارگه‌هێ كلی شلو",
             "path": "assets/images/12_11/1/27.jpg"
           },
           {
-            "title": "مةزارطةهيَ سندل كلوب",
+            "title": "29-  مه‌زارگه‌هێ سندل كلوب",
             "path": "assets/images/12_11/1/28.jpg"
           },
           {
-            "title": "مةزارطةهيَ شيَخ عبدالقادريَ  رةحماني ل طونديَ حةياليَ",
+            "title": "30- مه‌زارگه‌هێ شێخ عبدالقادرێ  ره‌حمانی ل گوندێ حه‌یالێ",
             "path": "assets/images/12_11/1/29.jpg"
           },
           {
-            "title": "مةزارطةهيَ مةلك فخرةدين طوندي سةكينييَ",
+            "title": "32- مه‌زارگه‌هێ مه‌لك فخره‌دین گوندی سه‌كینیێ",
             "path": "assets/images/12_11/1/30.jpg"
           },
           {
-            "title": "مةزارطةهيَ شيَخ مةند طوندي جداليَ",
+            "title": "33- مه‌زارگه‌هێ شێخ مه‌ند گوندی جدالێ",
             "path": "assets/images/12_11/1/31.jpg"
           },
           {
-            "title": "مةزارطةهيَ شيَخ حسن ل طوندي طابارة",
+            "title": "36- مه‌زارگه‌هێ شێخ حسن ل گوندی گاباره‌",
             "path": "assets/images/12_11/1/32.jpg"
           },
           {
-            "title": "مةزاريَ شةهيد ل طونديَ قزلكةند",
+            "title": "37- مه‌زارێ شه‌هید ل گوندێ قزلكه‌ند",
             "path": "assets/images/12_11/1/33.jpg"
           },
           {
-            "title": "مةزاريَ سلتان ئيَزي",
+            "title": "38- مه‌زارێ سلتان ئێزی",
             "path": "assets/images/12_11/1/34.jpg"
           },
           {
-            "title": "مةزارطةهيَ ثير هةسن مةمان ل ضياييَ شنطاليَ",
+            "title": "39- مه‌زارگه‌هێ پیر هه‌سن مه‌مان ل چیایێ شنگالێ",
             "path": "assets/images/12_11/1/35.jpg"
           },
           {
-            "title": "مةزاريَ ئيَزيَ",
+            "title": "40- مه‌زارێ ئێزێ",
             "path": "assets/images/12_11/1/36.jpg"
           },
           {
-            "title": "مةزاريَ شيخي رةمبووسي",
+            "title": "43- مه‌زارێ شیخی ره‌مبووسی",
             "path": "assets/images/12_11/1/37.jpg"
           },
           {
-            "title": "مةزارطةهيَ مام رةشان ل طوندي تةبا",
+            "title": "44- مه‌زارگه‌هێ مام ره‌شان ل گوندی ته‌با",
             "path": "assets/images/12_11/1/38.jpg"
           },
           {
-            "title": "مةزارطةهيَ طؤرستانا مندكان و هسكا",
+            "title": "45- مه‌زارگه‌هێ گۆرستانا مندكان و هسكا",
             "path": "assets/images/12_11/1/39.jpg"
           },
           {
-            "title": "مةزارطةهيَ ئةمادين طوندي ديَريني مهركان",
+            "title": "46- مه‌زارگه‌هێ ئه‌مادین گوندی دێرینی مهركان",
             "path": "assets/images/12_11/1/40.jpg"
           },
           {
-            "title": "مةزاريَ ثيراظات",
+            "title": "47- مه‌زارێ پیراڤات",
             "path": "assets/images/12_11/1/41.jpg"
           },
           {
-            "title": "مةزاريَ ثير زةكةر",
+            "title": "50- مه‌زارێ پیر زه‌كه‌ر",
             "path": "assets/images/12_11/1/42.jpg"
           },
           {
-            "title": "مةزاريَ شيَخ رؤمي",
+            "title": "51- مه‌زارێ شێخ رۆمی",
             "path": "assets/images/12_11/1/43.jpg"
           },
           {
-            "title": "دةظةرا شنطال",
+            "title": "ده‌ڤه‌را شنگال",
             "path": "assets/images/12_11/1/44.png"
           }
         ]
       },
       {
-        "title": "2",
+        "title": "12-11-2 نیشانێن ده‌ڤه‌را شنگال",
         "pics": [
           {
-            "title": "2- نيشانطةها ئدريس خةيات",
+            "title": "1- مه‌زارگه‌هێ عه‌بدولعوزیزێ حه‌رجی گوندێ حه‌یالێ",
+            "path": "assets/images/12_11/1/2.jpg"
+          },
+          {
+            "title": "2- نیشانگه‌ها ئدریس خه‌یات",
             "path": "assets/images/12_11/2/2.jpg"
           },
           {
-            "title": "5- نيشانا ثيريَ خوةشك",
+            "title": "5- نیشانا پیرێ خوه‌شك",
             "path": "assets/images/12_11/2/5.jpg"
           },
           {
-            "title": "10- خرباتيَ نخسيَ",
-            "path": "assets/images/12_11/2/10.jpg"
-          },
-          {
-            "title": "19- نيشانطةها مةلك فخرةدي",
-            "path": "assets/images/12_11/2/19.jpg"
-          },
-
-          {
-            "title": "20-  اكواخ ل طونديَ قليبان ل ضياييَ شنطاليَ",
-            "path": "assets/images/12_11/2/20.jpg"
-          },
-          {
-            "title": "21- خربة تاووس خاتون ل ضياييَ شنطاليَ",
-            "path": "assets/images/12_11/2/21.jpg"
-          },
-          {
-            "title": "22- داي بيزار",
-            "path": "assets/images/12_11/2/22.jpg"
-          },
-          {
-            "title": "23- سلاظطةها ضنضنؤكيَ",
-            "path": "assets/images/12_11/2/23.jpg"
-          },
-          {
-            "title": "24- نيشانا شيَشمس",
-            "path": "assets/images/12_11/2/24.jpg"
-          },
-          {
-            "title": "25- دارا نبي سليمان",
-            "path": "assets/images/12_11/2/25.jpg"
-          },
-          {
-            "title": "26- صورة كورجهى و طؤلكيَ عزير",
-            "path": "assets/images/12_11/2/26.jpg"
-          },
-          {
-            "title": "27- سلافكةها بيري بكرا ل طونديَ بكرا",
-            "path": "assets/images/12_11/2/27.jpg"
-          },
-          {
-            "title": "28- جيلكي مسافرا ل طونديَ اديكا ب ضياييَ شنطال",
-            "path": "assets/images/12_11/2/28.jpg"
-          },
-          {
-            "title": "29- قةسرة سفوك الدوملي ل طونديَ تيرف",
-            "path": "assets/images/12_11/2/29.jpg"
-          },
-          {
-            "title": "30- قلها حمو شرؤ باشا ل طونديَ جدالي",
-            "path": "assets/images/12_11/2/30.jpg"
-          },
-          {
-            "title": "31- كؤرا سمؤقيَ  ل طونديَ جةفرية",
-            "path": "assets/images/12_11/2/31.jpg"
-          },
-          {
-            "title": "36- شكةفتا عزالي ل ضياييَ شنطاليَ",
-            "path": "assets/images/12_11/2/36.jpg"
-          },
-
-          {
-            "title": "6-  نيشانا حاجي عةلي (حةجي عةلي)",
+            "title": "6-  نیشانا حاجی عه‌لی (حه‌جی عه‌لی)",
             "path": "assets/images/12_11/2/6.jpg"
           },
           {
-            "title": "7- جيلكي شيَخوبكر ل طونديَ جفرية ل باكوريَ ضياييَ شتطاليَ",
+            "title": "7- جیلكی شێخوبكر ل گوندێ جفریه‌ ل باكورێ چیایێ شتگالێ",
             "path": "assets/images/12_11/2/7.jpg"
           },
           {
-            "title": "9- نيشانطةها دارا عسيؤ",
+            "title": "9- نیشانگه‌ها دارا عسیۆ",
             "path": "assets/images/12_11/2/9.jpg"
+          },
+          {
+            "title": "10- خرباتێ نخسێ",
+            "path": "assets/images/12_11/2/10.jpg"
+          },
+          {
+            "title": "19- نیشانگه‌ها مه‌لك فخره‌دی",
+            "path": "assets/images/12_11/2/19.jpg"
+          },
+          {
+            "title": "20- اكواخ ل گوندێ قلیبان ل چیایێ شنگالێ",
+            "path": "assets/images/12_11/2/20.jpg"
+          },
+          {
+            "title": "21-خربه‌ تاووس خاتون ل چیایێ شنگالێ",
+            "path": "assets/images/12_11/2/21.jpg"
+          },
+          {
+            "title": "22- دای بیزار",
+            "path": "assets/images/12_11/2/22.jpg"
+          },
+          {
+            "title": "23- سلاڤگه‌ها چنچنۆكێ",
+            "path": "assets/images/12_11/2/23.jpg"
+          },
+          {
+            "title": "24- نیشانا شێشمس",
+            "path": "assets/images/12_11/2/24.jpg"
+          },
+          {
+            "title": "25- دارا نبی سلیمان",
+            "path": "assets/images/12_11/2/25.jpg"
+          },
+          {
+            "title": "26- صوره‌ كورجهى و گۆلكێ عزیر",
+            "path": "assets/images/12_11/2/26.jpg"
+          },
+          {
+            "title": "27- سلافكه‌ها بیری بكرا ل گوندێ بكرا",
+            "path": "assets/images/12_11/2/27.jpg"
+          },
+          {
+            "title": "28- جیلكی مسافرا ل گوندێ ادیكا ب چیایێ شنگال",
+            "path": "assets/images/12_11/2/28.jpg"
+          },
+          {
+            "title": "29- قه‌سره‌ سفوك الدوملی ل گوندێ تیرف",
+            "path": "assets/images/12_11/2/29.jpg"
+          },
+          {
+            "title": "30- قلها حمو شرۆ باشا ل گوندێ جدالی",
+            "path": "assets/images/12_11/2/30.jpg"
+          },
+          {
+            "title": "31- كۆرا سمۆقێ  ل گوندێ جه‌فریه‌",
+            "path": "assets/images/12_11/2/31.jpg"
+          },
+          {
+            "title": "36- شكه‌فتا عزالی ل چیایێ شنگالێ",
+            "path": "assets/images/12_11/2/36.jpg"
           }
         ]
       }
     ]
   },
   {
-    "title": "12-12 ويَنةيَن جةذن و هةلكةفتيَن ئيَزديان",
+    "title": "12-12 وێنه‌ێن جه‌ژن و هه‌لكه‌فتێن ئێزدیان",
     "subchapters": [
       {
-        "title": "1",
+        "title": "جه‌ژن و هه‌لكه‌فتێن ئێزدیان",
         "pics": [
           {
-            "title": "وينةييَ ثةرستطةها لالش و طةلييَ لالش",
+            "title": "1- وینه‌یێ په‌رستگه‌ها لالش و گه‌لیێ لالش",
             "path": "assets/images/12_12/1/1.jpg"
           },
           {
-            "title": "ويَنةييَ كانييَن ثيرؤز ييَن دكةظنة ثةرستطةها ثيرؤزا لالشيَ",
+            "title": "2- وێنه‌ێن كانیێن پیرۆز یێن دكه‌ڤنه‌ په‌رستگه‌ها پیرۆزا لالشێ",
             "path": "assets/images/12_12/1/2.png"
           },
           {
-            "title": "ويَنةيَن داريَن ثيرؤز ييَن دكةظنة ثةرستطةها ثيرؤزا لالشي",
+            "title": "3- وێنه‌ێن دارێن پیرۆز یێن دكه‌ڤنه‌ په‌رستگه‌ها پیرۆزا لالشی",
             "path": "assets/images/12_12/1/3.png"
           },
           {
-            "title": "ويَنةيَن قوبيَن ثيرؤز ييَن دكةظنة ثةرستطةها ثيرؤزا لالشيَ",
+            "title": "4- وێنه‌ێن قوبێن پیرۆز یێن دكه‌ڤنه‌ په‌رستگه‌ها پیرۆزا لالشێ",
             "path": "assets/images/12_12/1/4.png"
           },
           {
-            "title": "ويَنةيَن سندروكيَن خاسان ( بابضاكان)",
+            "title": "5- وێنه‌ێن سندروكێن خاسان ( بابچاكان)",
             "path": "assets/images/12_12/1/5.jpg"
           },
           {
-            "title": "ويَنةييَ خانا ئيَزي ل ثةرستطةها لالش",
+            "title": "6- وێنه‌یێ خانا ئێزی ل په‌رستگه‌ها لالش",
             "path": "assets/images/12_12/1/6.jpg"
           },
           {
-            "title": "ويَنةييَ ثرا سةراتيَ  ل ثةرستطةها لالش",
+            "title": "7- وێنه‌یێ پرا سه‌راتێ  ل په‌رستگه‌ها لالش",
             "path": "assets/images/12_12/1/7.jpg"
           },
           {
-            "title": "ويَنةييَ سلاظطةهيَ ل ثةرستطةها لالش",
+            "title": "8- وێنه‌یێ سلاڤگه‌هێ ل په‌رستگه‌ها لالش",
             "path": "assets/images/12_12/1/8.jpg"
           },
           {
-            "title": "سووكا مةعريفةتيَ ل ثةرستطةها لالش",
+            "title": "9- سووكا مه‌عریفه‌تێ ل په‌رستگه‌ها لالش",
             "path": "assets/images/12_12/1/9.jpg"
           },
           {
-            "title": "جلةسا بابيَ شيَخ",
+            "title": "10- جه‌لسا بابێ شێخ",
             "path": "assets/images/12_12/1/10.jpg"
           },
           {
-            "title": "ويَنةيَن دةرييَن لالشيَ",
+            "title": "11- وێنه‌ێن ده‌ریێن لالشێ",
             "path": "assets/images/12_12/1/11.jpg"
           },
           {
-            "title": "خزنا ناني ل ثةرستطةها لالش",
+            "title": "12- خزنا نانی ل په‌رستگه‌ها لالش",
             "path": "assets/images/12_12/1/12.jpg"
           },
           {
-            "title": "(بةري قةباغيَ  ) ل ضياييَ عةرةفاتيَ ل ثةرستطةها لالش",
+            "title": "13- (به‌ری قه‌باغێ  ) ل چیایێ عه‌ره‌فاتێ ل په‌رستگه‌ها لالش",
             "path": "assets/images/12_12/1/13.jpg"
           },
           {
-            "title": "دةرازينك يان دةرةجك",
+            "title": "14- ده‌رازینك یان ده‌ره‌جك",
             "path": "assets/images/12_12/1/14.jpg"
           },
-          { "title": "قةوال", "path": "assets/images/12_12/1/15.jpg" },
+          { "title": "15- قه‌وال", "path": "assets/images/12_12/1/15.jpg" },
           {
-            "title": "هليَليَن قوبا",
+            "title": "16- هلێلێن قوبا",
             "path": "assets/images/12_12/1/15_2.jpg"
           },
           {
-            "title": "دةف و شباب و ليَخستنا دةف و شبابا",
+            "title": "17- ده‌ف و شباب و لێخستنا ده‌ف و شبابا",
             "path": "assets/images/12_12/1/16.jpg"
           },
           {
-            "title": "موزيكا دةف و شباب (شاز و قدم) د ئاينيَ ئيَزدياتييَ دا",
+            "title": "18- موزیكا ده‌ف و شباب (شاز و قدم) د ئاینێ ئێزدیاتیێ دا",
             "path": "assets/images/12_12/1/17.jpg"
           },
-          { "title": "سةما و سةكيشان", "path": "assets/images/12_12/1/18.jpg" },
           {
-            "title": "تؤك و طريظان و كراسي سثي",
+            "title": "19- سه‌ما و سه‌كیشان",
+            "path": "assets/images/12_12/1/18.jpg"
+          },
+          {
+            "title": "20- تۆك و گریڤان و كراسی سپی",
             "path": "assets/images/12_12/1/19.jpg"
           },
           {
-            "title": "فقةيريَ ب خةرقة",
+            "title": "21- فه‌قیرێ ب خه‌رقه‌",
             "path": "assets/images/12_12/1/20.jpg"
           },
           {
-            "title": "جلوبةرطي ميلليي ئيَزيدي",
+            "title": "22- جلوبه‌رگی میللیی ئێزیدی",
             "path": "assets/images/12_12/1/21.jpg"
           },
           {
-            "title": "جلوبةرطيَن ئافرةتيَن ئيَزدي",
+            "title": "23- جلوبه‌رگێن ئافره‌تێن ئێزدی",
             "path": "assets/images/12_12/1/22.jpg"
           },
           {
-            "title": "جلوبةرطي ئايينيي ئيَزيدي (مةفتول، تاج وجل، شالكا سوَر و سثي)",
+            "title": "24- جلوبه‌رگی ئایینیی ئێزیدی ",
             "path": "assets/images/12_12/1/23.jpg"
           },
-          { "title": "دةزيكيَ دةستي", "path": "assets/images/12_12/1/24.jpg" },
           {
-            "title": "ئاخا دةرةضكي (دةرازينكيَ)",
+            "title": "25- ده‌زیكێ ده‌ستی",
+            "path": "assets/images/12_12/1/24.jpg"
+          },
+          {
+            "title": "26- ئاخا ده‌ره‌چكی (ده‌رازینكێ)",
             "path": "assets/images/12_12/1/25.jpg"
           },
-          { "title": "برةات", "path": "assets/images/12_12/1/26.jpg" },
           {
-            "title": "ثيَكهاتيَن تاووسي",
+            "title": "27- به‌رات",
+            "path": "assets/images/12_12/1/26.jpg"
+          },
+          {
+            "title": "28- پێكهاتێن تاووسی",
             "path": "assets/images/12_12/1/27.jpg"
           },
           {
-            "title": "ثيرؤزيا طةنمي و نان و جؤريَن ناني",
+            "title": "29- پیرۆزیا گه‌نمی و نان و جۆرێن نانی",
             "path": "assets/images/12_12/1/28.jpg"
           },
           {
-            "title": "ئاطر و ضرا و ضقلتو",
+            "title": "30- ئاگر و چرا و چقلتو",
             "path": "assets/images/12_12/1/29.jpg"
           },
           {
-            "title": "هيَماييَ رؤذيَ",
+            "title": "31- هێمایێ رۆژێ",
             "path": "assets/images/12_12/1/30.jpg"
           },
-          { "title": "هيَماييَ قوبا", "path": "assets/images/12_12/1/31.jpg" },
-          { "title": "ماريَ رةش", "path": "assets/images/12_12/1/32.jpg" },
           {
-            "title": "هيَماييَ ستيَريَ",
+            "title": "32- هێمایێ قوبا",
+            "path": "assets/images/12_12/1/31.jpg"
+          },
+          {
+            "title": "33- مارێ ره‌ش",
+            "path": "assets/images/12_12/1/32.jpg"
+          },
+          {
+            "title": "34- هێمایێ ستێرێ",
             "path": "assets/images/12_12/1/33.jpg"
           },
           {
-            "title": "هيَماييَ هةيظيَ",
+            "title": "35- هێمایێ هه‌یڤێ",
             "path": "assets/images/12_12/1/34.jpg"
           },
           {
-            "title": "هيَماييَ كوضك (دوو كوضكا)",
+            "title": "36- هێمایێ كوچك (دوو كوچكا)",
             "path": "assets/images/12_12/1/35.jpg"
           },
-          { "title": "هيَماي بالَندة", "path": "assets/images/12_12/1/36.jpg" },
-          { "title": "هيَماي طؤثال", "path": "assets/images/12_12/1/37.jpg" },
-          { "title": "هيَماي سولتان", "path": "assets/images/12_12/1/38.jpg" },
-          { "title": "هيَماي خاض", "path": "assets/images/12_12/1/39.jpg" },
           {
-            "title": "هيَماي بازنةيةك لةناو بازنةيةكدا",
+            "title": "37- هيَماي بالَندة",
+            "path": "assets/images/12_12/1/36.jpg"
+          },
+          {
+            "title": "38- هێمای گۆپال",
+            "path": "assets/images/12_12/1/37.jpg"
+          },
+          {
+            "title": "39- هێمای سولتان",
+            "path": "assets/images/12_12/1/38.jpg"
+          },
+          {
+            "title": "40- هێمای خاچ",
+            "path": "assets/images/12_12/1/39.jpg"
+          },
+          {
+            "title": "41- هێمای بازنه‌یه‌ك له‌ناو بازنه‌یه‌كدا",
             "path": "assets/images/12_12/1/40.jpg"
           },
           {
-            "title": "هندةك هيَمايَن ثيرؤز دكةظنة ثةرستطةها ثيرؤزا لالش",
+            "title": "42-  هنده‌ك هێماێن پیرۆز دكه‌ڤنه‌ په‌رستگه‌ها پیرۆزا لالش",
             "path": "assets/images/12_12/1/41.png"
           },
           {
-            "title": "وينةييَ ثةرييَن خاس و بايضاكان ئيَزديا و رةنطين وان",
+            "title": "43- وینه‌یێ په‌ریێن خاس و بایچاكان ئێزدیا و ره‌نگین وان",
             "path": "assets/images/12_12/1/42.jpg"
           },
-          { "title": "ريش و سميَل", "path": "assets/images/12_12/1/43.jpg" },
           {
-            "title": "بخؤر و تاوا بخوري",
+            "title": "44- ریش و سمێل",
+            "path": "assets/images/12_12/1/43.jpg"
+          },
+          {
+            "title": "45- بخۆر و تاوا بخوری",
             "path": "assets/images/12_12/1/44.jpg"
           },
           {
-            "title": "ماضكرنا ثشتا دةست",
+            "title": "46- ماچكرنا پشتا ده‌ست",
             "path": "assets/images/12_12/1/45.jpg"
           },
           {
-            "title": "جةذنا سةريَ ساليَ",
+            "title": "47- جه‌ژنا سه‌رێ سالێ",
             "path": "assets/images/12_12/1/46.jpg"
           },
           {
-            "title": "بةلاظكرنا سةوك و هيَكا",
+            "title": "48- به‌لاڤكرنا سه‌وك و هێكا",
             "path": "assets/images/12_12/1/47.jpg"
           },
           {
-            "title": "هلاويستنا كوليلكيَن سؤر و بيناظيَ و قالكيَن رةنطا و رةنطيَن هيكا",
+            "title": "49- هلاویستنا كولیلكێن سۆر و بیناڤێ و قالكێن ره‌نگا و ره‌نگێن هیكا",
             "path": "assets/images/12_12/1/48.jpg"
           },
           {
-            "title": "جةذنا ضليَ زظستانيَ و ضليَ هاظيني",
+            "title": "50- جه‌ژنا چلێ زڤستانێ و چلێ هاڤینی",
             "path": "assets/images/12_12/1/49.jpg"
           },
           {
-            "title": "جةذنا بيَلنديََ ( طوركاكا و خة?وليَرة)",
+            "title": "51- جه‌ژنا بێلندێَ ( گوركاكا و خه‌‌ولێره‌)",
             "path": "assets/images/12_12/1/50.jpg"
           },
           {
-            "title": "جةذنا باتزمييَ (جةذنا ثيريَ ئالي)",
+            "title": "52- جه‌ژنا باتزمیێ (جه‌ژنا پیرێ ئالی)",
             "path": "assets/images/12_12/1/51.jpg"
           },
-          { "title": "جةذنا خدرالياس", "path": "assets/images/12_12/1/52.jpg" },
-          { "title": "عيدا نيشانا", "path": "assets/images/12_12/1/53.jpg" },
           {
-            "title": "كيَشانا سةماييَ",
+            "title": "53- جه‌ژنا خدرالیاس",
+            "path": "assets/images/12_12/1/52.jpg"
+          },
+          {
+            "title": "54-  عیدا نیشانا",
+            "path": "assets/images/12_12/1/53.jpg"
+          },
+          {
+            "title": "55- كێشانا سه‌مایێ",
             "path": "assets/images/12_12/1/54.jpg"
           },
-          { "title": "ضةقةلتو", "path": "assets/images/12_12/1/55.jpg" },
-          { "title": "ثةري سواركرن", "path": "assets/images/12_12/1/56.jpg" },
           {
-            "title": "ريَ و رسميَن قةباغيَ ل ثةرستطةها لالش",
+            "title": "56- چه‌قه‌لتو",
+            "path": "assets/images/12_12/1/55.jpg"
+          },
+          {
+            "title": "57- په‌ری سواركرن",
+            "path": "assets/images/12_12/1/56.jpg"
+          },
+          {
+            "title": "58- رێ و رسمێن قه‌باغێ ل په‌رستگه‌ها لالش",
             "path": "assets/images/12_12/1/57.jpg"
           },
           {
-            "title": "ديلانا هةفت ريزي",
+            "title": "59- دیلانا هه‌فت ریزی",
             "path": "assets/images/12_12/1/58.jpg"
           },
           {
-            "title": "قنتار ( قةنتةرة)",
+            "title": "60- قنتار ( قه‌نته‌ره‌)",
             "path": "assets/images/12_12/1/59.jpg"
           },
           {
-            "title": "سواركرنا بةريَ شباكيَ",
+            "title": "61- سواركرنا به‌رێ شباكێ",
             "path": "assets/images/12_12/1/60.jpg"
           },
           {
-            "title": "ريَ و رسميَن مؤركرنيَ ل ثةرستطةها لالش",
+            "title": "62- رێ و رسمێن مۆركرنێ ل په‌رستگه‌ها لالش",
             "path": "assets/images/12_12/1/61.jpg"
           },
           {
-            "title": "ريَ و رسميَن سةلاكرنيَ ل ثةرستطةها لالش",
+            "title": "63- رێ و رسمێن سه‌لاكرنێ ل په‌رستگه‌ها لالش",
             "path": "assets/images/12_12/1/62.jpg"
           },
-          { "title": "ضيَكرنا سماتيَ", "path": "assets/images/12_12/1/63.jpg" },
           {
-            "title": "هةلكرنا ضرا و فتيلا ل ثةرستطةها لالش",
+            "title": "64- چێكرنا سماتێ",
+            "path": "assets/images/12_12/1/63.jpg"
+          },
+          {
+            "title": "65- هه‌لكرنا چرا و فتیلا ل په‌رستگه‌ها لالش",
             "path": "assets/images/12_12/1/64.jpg"
           },
           {
-            "title": "سةفةرا قؤل كيَشانيَ ل ثةرستطةها لالش",
+            "title": "66- سه‌فه‌را قۆل كێشانێ ل په‌رستگه‌ها لالش",
             "path": "assets/images/12_12/1/65.jpg"
           },
           {
-            "title": "سةفةرا ماستا بؤ ثةرستطةها لالش",
+            "title": "67- سه‌فه‌را ماستا بۆ په‌رستگه‌ها لالش",
             "path": "assets/images/12_12/1/66.jpg"
           },
           {
-            "title": "دروستكرنا زةيتا زةيتونت و جينيا زةيتونا",
+            "title": "68- دروستكرنا زه‌یتا زه‌یتونت و جینیا زه‌یتونا",
             "path": "assets/images/12_12/1/67.jpg"
           },
           {
-            "title": "ريَ و رةسميَن تاووس طيَرانيَ",
+            "title": "69- رێ و ره‌سمێن تاووس گێرانێ",
             "path": "assets/images/12_12/1/68.jpg"
           },
           {
-            "title": "ريَ و رسميَن توافييَن ئيَزديان",
+            "title": "70- رێ و رسمێن توافیێن ئێزدیان",
             "path": "assets/images/12_12/1/69.jpg"
           }
         ]

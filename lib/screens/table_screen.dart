@@ -15,11 +15,20 @@ class TableOfContentScreen extends StatefulWidget {
 
 class _TableOfContentScreenState extends State<TableOfContentScreen> {
   List<TableOfContent> chapters = [];
+  List<TableOfContent> filteredChapters = [];
+  final TextEditingController _searchController = TextEditingController();
 
   @override
   void initState() {
     super.initState();
     loadTableOfContent();
+    _searchController.addListener(_onSearchChanged);
+  }
+
+  @override
+  void dispose() {
+    _searchController.dispose();
+    super.dispose();
   }
 
   Future<void> loadTableOfContent() async {
@@ -31,7 +40,22 @@ class _TableOfContentScreenState extends State<TableOfContentScreen> {
       chapters = jsonList
           .map((jsonItem) => TableOfContent.fromJson(jsonItem))
           .toList();
+      filteredChapters = chapters;
     });
+  }
+
+  void _onSearchChanged() {
+    final query = _searchController.text.trim();
+    if (query.isEmpty) {
+      setState(() => filteredChapters = chapters);
+    } else {
+      setState(() {
+        filteredChapters = chapters
+            .where((chapter) =>
+                chapter.title.toLowerCase().contains(query.toLowerCase()))
+            .toList();
+      });
+    }
   }
 
   @override
@@ -39,36 +63,67 @@ class _TableOfContentScreenState extends State<TableOfContentScreen> {
     return Scaffold(
       appBar: AppBar(
           title: KurdishText(
-        text: 'ناظةرؤكا ثةرتؤكيَ',
+        text: 'ناڤه‌رۆكا په‌رتۆكێ',
         fontSize: 24,
         color: Colors.black,
       )),
-      body: chapters.isEmpty
-          ? Center(child: CircularProgressIndicator())
-          : ListView.builder(
-              itemCount: chapters.length,
-              itemBuilder: (context, index) {
-                final chapter = chapters[index];
-                final chapterNo = index + 1;
-                return Padding(
-                  padding: const EdgeInsets.symmetric(
-                      vertical: 8.0, horizontal: 16.0),
-                  child: _buildChapterTile(
-                    chapter.title,
-                    onTap: () {
-                      if (chapterNo != 12) {
-                        Get.toNamed(
-                          AppRoutes.subchapters,
-                          arguments: {'chapterId': chapterNo},
-                        );
-                      } else {
-                        Get.toNamed(AppRoutes.chapter12Detail);
-                      }
-                    },
-                  ),
-                );
-              },
+      body: Column(
+        children: [
+          Padding(
+            padding: const EdgeInsets.all(12.0),
+            child: TextField(
+              textDirection: TextDirection.rtl,
+              style: TextStyle(
+                fontFamily: 'RudawRegular',
+                fontSize: 18,
+              ),
+              controller: _searchController,
+              decoration: InputDecoration(
+                hintText: '...كهران بو بابيك',
+                hintStyle: TextStyle(
+                  fontSize: 16,
+                  color: Colors.grey[600],
+                ),
+                prefixIcon: const Icon(Icons.search),
+                filled: true,
+                fillColor: Colors.grey[100],
+                contentPadding: EdgeInsets.symmetric(vertical: 12),
+                border: OutlineInputBorder(
+                  borderRadius: BorderRadius.circular(12),
+                  borderSide: BorderSide.none,
+                ),
+              ),
             ),
+          ),
+          Expanded(
+              child: chapters.isEmpty
+                  ? Center(child: CircularProgressIndicator())
+                  : ListView.builder(
+                      itemCount: chapters.length,
+                      itemBuilder: (context, index) {
+                        final chapter = chapters[index];
+                        final chapterNo = index + 1;
+                        return Padding(
+                          padding: const EdgeInsets.symmetric(
+                              vertical: 8.0, horizontal: 16.0),
+                          child: _buildChapterTile(
+                            chapter.title,
+                            onTap: () {
+                              if (chapterNo != 12) {
+                                Get.toNamed(
+                                  AppRoutes.subchapters,
+                                  arguments: {'chapterId': chapterNo},
+                                );
+                              } else {
+                                Get.toNamed(AppRoutes.chapter12Detail);
+                              }
+                            },
+                          ),
+                        );
+                      },
+                    ))
+        ],
+      ),
     );
   }
 

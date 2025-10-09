@@ -71,6 +71,7 @@ class _ChaptersScreenState extends State<ChaptersScreen> {
 
               /// ── Search Bar
               TextField(
+                textDirection: TextDirection.rtl,
                 style: TextStyle(
                   fontFamily: 'RudawRegular',
                   fontSize: 18,
