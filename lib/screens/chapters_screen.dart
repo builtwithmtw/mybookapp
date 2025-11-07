@@ -2,7 +2,9 @@ import 'dart:developer';
 
 import 'package:flutter/material.dart';
 import 'package:lavij/constants/app_routes.dart';
+import 'package:lavij/screens/book_content.dart';
 import 'package:lavij/widgets/KurdishText.dart';
+import 'package:lavij/widgets/box.dart';
 import 'package:get/get.dart';
 
 class ChaptersScreen extends StatefulWidget {
@@ -12,18 +14,18 @@ class ChaptersScreen extends StatefulWidget {
 
 class _ChaptersScreenState extends State<ChaptersScreen> {
   final List<String> kurdishChapters = [
-    'به‌شێ ئێكێ', // 1
-    'به‌شێ دوویێ', // 2
-    'به‌شێ سێیێ', // 3
-    'به‌شێ چارێ', // 4
-    'به‌شێ پێنچێ', // 5
-    'به‌شێ شه‌شێ', // 6
-    'به‌شێ هه‌فتی', // 7
-    'به‌شێ هه‌شتێ', // 8
-    'به‌شێ نه‌هێ', // 9
-    'به‌شێ ده‌هێ', // 10
-    'به‌شێ یازدێ', // 11
-    'به‌شێ دوازدێ' // 12
+    ' به‌شێ ئێكێ: ئێزدی و ئێزدییاتی', // 1
+    '  به‌شێ دووێ: چین و فه‌رزێن ئێزدییان ', // 2
+    ' به‌شێ سیێ: پیرۆزییێن ئێزدییان', // 3
+    ' به‌شێ چارێ: جه‌ژن و ڕێوڕه‌سمێن ئێزدییان', // 4
+    ' به‌شێ پێنچێ: زڤڕۆكا ژیانێ ل جه‌م ئێزدییان', // 5
+    ' به‌شێ شه‌شێ: هه‌لكه‌فتێن ئێزدییان', // 6
+    ' به‌شێ هه‌فتێ: گونه‌ه و بتكاری  ل جه‌م ئێزدییان', // 7
+    'به‌شێ هه‌شتێ: مه‌هده‌ر و زێوێن پیرانی ', // 8
+    ' به‌شێ نه‌هێ: ئه‌ركانێن دینێ ئێزدییان', // 9
+    'به‌شێ ده‌هێ: مه‌زارگه‌ه و نیشانگه‌هێن خاس و چاكێن ئێزدییان ', // 10
+    'به‌شێ یازدێ: ئه‌ده‌بیاتا دینێ ئێزدییان', // 11
+    ' به‌شێ دوازدێ: وێنه‌ ده‌ربارێ په‌رتۆكێ' // 12
   ];
 
   late List<String> chapters;
@@ -77,7 +79,8 @@ class _ChaptersScreenState extends State<ChaptersScreen> {
                   fontSize: 18,
                 ),
                 decoration: InputDecoration(
-                  hintText: '...كهران بو بابيك',
+                  hintText: 'كهران بو بابيك',
+                  hintTextDirection: TextDirection.rtl,
                   hintStyle: TextStyle(
                     fontSize: 16,
                     color: Colors.grey[600],
@@ -96,18 +99,24 @@ class _ChaptersScreenState extends State<ChaptersScreen> {
                 },
               ),
               SizedBox(height: 24),
-              Row(
-                mainAxisAlignment: MainAxisAlignment.center,
+              Wrap(
+                spacing: 10,
+                runSpacing: 10,
+                alignment: WrapAlignment.center,
                 children: [
-                  GestureDetector(
+                  ChapterTile(
+                    title: "ناڤه‌رۆكا په‌رتووكێ",
                     onTap: () {
-                      Get.toNamed(AppRoutes.tableOfContent);
+                      Get.to(() => const BookScreen(isAuthor: true));
                     },
-                    child: KurdishText(
-                      text: 'ناڤه‌رۆكا په‌رتووكێ ',
-                      fontSize: 24,
-                      color: Colors.black,
-                    ),
+                    isChapter: false,
+                  ),
+                  ChapterTile(
+                    title: "ده‌رباره‌ی نڤیسه‌ری و چاپكرنا په‌رتووكێ",
+                    onTap: () {
+                      Get.to(() => const BookScreen(isAuthor: false));
+                    },
+                    isChapter: false,
                   ),
                 ],
               ),
@@ -117,12 +126,11 @@ class _ChaptersScreenState extends State<ChaptersScreen> {
                 crossAxisCount: 2,
                 shrinkWrap: true,
                 physics: NeverScrollableScrollPhysics(),
-                crossAxisSpacing: 24,
-                mainAxisSpacing: 18,
-                childAspectRatio: 1.2,
+                crossAxisSpacing: 10,
+                mainAxisSpacing: 1,
                 children: List.generate(filteredChapters.length, (index) {
-                  return _buildChapterTile(
-                    filteredChapters[index],
+                  return ChapterTile(
+                    title: filteredChapters[index],
                     onTap: () {
                       final int chapterNo = index + 1;
                       if (chapterNo != 12) {
@@ -138,34 +146,6 @@ class _ChaptersScreenState extends State<ChaptersScreen> {
                 }),
               ),
             ],
-          ),
-        ),
-      ),
-    );
-  }
-
-  Widget _buildChapterTile(String title, {VoidCallback? onTap}) {
-    return GestureDetector(
-      onTap: onTap,
-      child: Container(
-        decoration: BoxDecoration(
-          color: Colors.white,
-          borderRadius: BorderRadius.circular(12),
-          boxShadow: [
-            BoxShadow(
-              color: Colors.black.withOpacity(0.25),
-              offset: Offset(0, 6),
-              blurRadius: 12,
-              spreadRadius: 2,
-            ),
-          ],
-        ),
-        child: Center(
-          child: KurdishText(
-            text: title,
-            fontSize: 20,
-            fontWeight: FontWeight.bold,
-            color: Colors.black87,
           ),
         ),
       ),

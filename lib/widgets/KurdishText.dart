@@ -6,15 +6,17 @@ class KurdishText extends StatelessWidget {
   final FontWeight fontWeight;
   final Color color;
   final String? fontFamily; // Optional custom font
+  final TextAlign textAlign;
 
-  const KurdishText({
-    Key? key,
-    required this.text,
-    this.fontSize = 18,
-    this.fontWeight = FontWeight.normal,
-    this.color = Colors.black,
-    this.fontFamily,
-  }) : super(key: key);
+  const KurdishText(
+      {Key? key,
+      required this.text,
+      this.fontSize = 18,
+      this.fontWeight = FontWeight.normal,
+      this.color = Colors.black,
+      this.fontFamily,
+      this.textAlign = TextAlign.center})
+      : super(key: key);
 
   @override
   Widget build(BuildContext context) {
@@ -23,6 +25,7 @@ class KurdishText extends StatelessWidget {
       textDirection: TextDirection.rtl,
       softWrap: true,
       maxLines: null,
+      textAlign: textAlign,
       style: TextStyle(
         fontSize: fontSize,
         fontWeight: fontWeight,

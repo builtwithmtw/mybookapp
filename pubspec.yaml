@@ -107,6 +107,8 @@ flutter:
     - assets/chapter11.json
     - assets/table_of_content.json
     - assets/pics.json
+    - assets/author.json
+    - assets/book_content.json
 
   fonts:
     - family: AliKAlwand

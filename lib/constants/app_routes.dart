@@ -23,7 +23,7 @@ class AppRoutes {
     GetPage(name: chapters, page: () => ChaptersScreen()),
     GetPage(name: subchapters, page: () => const Subchaptersscreen()),
     GetPage(name: subsubchapters, page: () => const Subsubchaptersscreen()),
-    GetPage(name: chapterDetail, page: () => Chapterdetailscreen()),
+    GetPage(name: chapterDetail, page: () => ChapterDetailScreen()),
     GetPage(name: chapter12Detail, page: () => Chapter12DetailScreen()),
     GetPage(name: childScreen, page: () => ChildScreen()),
     GetPage(name: tableOfContent, page: () => TableOfContentScreen()),
