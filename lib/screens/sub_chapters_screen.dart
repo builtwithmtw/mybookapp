@@ -5,7 +5,8 @@ import 'package:flutter/services.dart' show rootBundle;
 import 'package:get/get.dart';
 import 'package:lavij/constants/app_routes.dart';
 import 'package:lavij/widgets/KurdishText.dart';
-import 'package:lavij/model/ChapterModel.dart'; // import model
+import 'package:lavij/model/ChapterModel.dart';
+import 'package:lavij/widgets/box.dart'; // import model
 
 class Subchaptersscreen extends StatefulWidget {
   const Subchaptersscreen({super.key});
@@ -61,57 +62,33 @@ class _SubchaptersscreenState extends State<Subchaptersscreen> {
             childAspectRatio: 1.2,
           ),
           itemBuilder: (context, index) {
-            final sub = chapter!.subchapters[index];
-            return _buildSubChapterTile(sub, chapterId);
+            final subchapter = chapter!.subchapters[index];
+            return ChapterTile(
+              title: subchapter.title,
+              isChapter: true,
+              onTap: () {
+                if (chapterId != 4 &&
+                    chapterId != 11 &&
+                    chapterId != 10 &&
+                    chapterId != 3) {
+                  Get.toNamed(AppRoutes.chapterDetail, arguments: {
+                    'title': subchapter.title,
+                    'content': subchapter.content,
+                  });
+                } else {
+                  log('chapterId: $chapterId');
+
+                  Get.toNamed(
+                    AppRoutes.subsubchapters,
+                    arguments: {
+                      'chapterId': chapterId,
+                      'title': subchapter.title,
+                    },
+                  );
+                }
+              },
+            );
           },
-        ),
-      ),
-    );
-  }
-
-  Widget _buildSubChapterTile(Subchapter subchapter, int chapterId) {
-    return GestureDetector(
-      onTap: () {
-        if (chapterId != 4 && chapterId != 11 && chapterId != 10) {
-          Get.toNamed(AppRoutes.chapterDetail, arguments: {
-            'title': subchapter.title,
-            'content': subchapter.content,
-          });
-        } else {
-          log('chapterId: $chapterId');
-
-          Get.toNamed(
-            AppRoutes.subsubchapters,
-            arguments: {
-              'chapterId': chapterId,
-              'title': subchapter.title,
-            },
-          );
-        }
-      },
-      child: Container(
-        decoration: BoxDecoration(
-          color: Colors.white,
-          borderRadius: BorderRadius.circular(12),
-          boxShadow: [
-            BoxShadow(
-              color: Colors.black.withOpacity(0.25),
-              offset: Offset(0, 6),
-              blurRadius: 12,
-              spreadRadius: 2,
-            ),
-          ],
-        ),
-        child: Padding(
-          padding: const EdgeInsets.all(8.0),
-          child: Center(
-            child: KurdishText(
-              text: subchapter.title,
-              fontSize: 18,
-              fontWeight: FontWeight.bold,
-              color: Colors.black87,
-            ),
-          ),
         ),
       ),
     );
