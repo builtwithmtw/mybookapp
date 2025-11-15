@@ -105,14 +105,14 @@ class _ChaptersScreenState extends State<ChaptersScreen> {
                 alignment: WrapAlignment.center,
                 children: [
                   ChapterTile(
-                    title: "ناڤه‌رۆكا په‌رتووكێ",
+                    title: "ده‌رباره‌ی نڤیسه‌ری و چاپكرنا په‌رتووكێ",
                     onTap: () {
                       Get.to(() => const BookScreen(isAuthor: true));
                     },
                     isChapter: false,
                   ),
                   ChapterTile(
-                    title: "ده‌رباره‌ی نڤیسه‌ری و چاپكرنا په‌رتووكێ",
+                    title: "ناڤه‌رۆكا په‌رتووكێ",
                     onTap: () {
                       Get.to(() => const BookScreen(isAuthor: false));
                     },
